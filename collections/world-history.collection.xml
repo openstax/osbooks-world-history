@@ -1,5 +1,6 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
+    <md:content-id>col00001</md:content-id>
     <md:title>World History</md:title>
     <md:slug>world-history</md:slug>
     <md:language>en</md:language>
@@ -10,10 +11,6 @@
     <col:subcollection>
       <md:title>Introduction</md:title>
       <col:content>
-        <col:module document="m00006"/>
-        <col:module document="m00005"/>
-        <col:module document="m00004"/>
-        <col:module document="m00003"/>
         <col:module document="m00002"/>
         <col:module document="m00001"/>
       </col:content>
