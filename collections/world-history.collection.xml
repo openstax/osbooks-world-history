@@ -7,6 +7,16 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-    <col:module document="m00001"/>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00005"/>
+        <col:module document="m00004"/>
+        <col:module document="m00003"/>
+        <col:module document="m00002"/>
+        <col:module document="m00001"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
