@@ -1,3 +1,3 @@
-<container xmlns="https://openstax.org/namespaces/book-container" version="2">
+<container xmlns="https://openstax.org/namespaces/book-container" version="1">
    <book slug="world-history" collection-id="col00004" style="world-history" href="../collections/world-history.collection.xml" />
 </container>
