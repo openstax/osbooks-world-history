@@ -9,7 +9,7 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Unit 1 Test Unit</md:title>
+      <md:title>Test Unit</md:title>
       <col:content>
         <col:subcollection>
           <md:title>Life and Labor in the Industrial World</md:title>
@@ -23,6 +23,6 @@
           </col:content>
         </col:subcollection>
       </col:content>
-    </col:subcollection>    
+    </col:subcollection>
   </col:content>
 </col:collection>
