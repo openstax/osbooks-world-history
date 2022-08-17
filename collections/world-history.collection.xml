@@ -8,16 +8,21 @@
     <md:content-id>col00004</md:content-id>
   </col:metadata>
   <col:content>
-        <col:subcollection>
-      <md:title>Life and Labor in the Industrial World</md:title>
+    <col:subcollection>
+      <md:title>Unit 1 Test Unit</md:title>
       <col:content>
-        <col:module document="m00001"/>
-        <col:module document="m00002"/>
-        <col:module document="m00003"/>
-        <col:module document="m00004"/>
-        <col:module document="m00005"/>
-        <col:module document="m00006"/>
+        <col:subcollection>
+          <md:title>Life and Labor in the Industrial World</md:title>
+          <col:content>
+            <col:module document="m00001"/>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+            <col:module document="m00006"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
-    </col:subcollection>
+    </col:subcollection>    
   </col:content>
 </col:collection>
