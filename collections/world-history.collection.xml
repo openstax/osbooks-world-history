@@ -5,7 +5,6 @@
     <md:language>en</md:language>
     <md:uuid>685e3163-1032-4529-bb3a-f97a54407214</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
-    <md:content-id>col00004</md:content-id>
   </col:metadata>
   <col:content>
     <col:subcollection>
@@ -20,6 +19,25 @@
             <col:module document="m00004"/>
             <col:module document="m00005"/>
             <col:module document="m00006"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Exchange in East Asia and the Indian Ocean</md:title>
+          <col:content>
+            <col:module document="m00007"/>
+            <col:module document="m00008"/>
+            <col:module document="m00009"/>
+            <col:module document="m00010"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Revolutions in Latin America</md:title>
+          <col:content>
+            <col:module document="m00011"/>
+            <col:module document="m00012"/>
+            <col:module document="m00013"/>
+            <col:module document="m00014"/>
+            <col:module document="m00015"/>
           </col:content>
         </col:subcollection>
       </col:content>
