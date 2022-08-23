@@ -1,10 +1,30 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00011</md:content-id>
     <md:uuid>bc344323-1ceb-4ae4-ab8e-16a38d569ad6</md:uuid>
   </metadata>
-  <content>
-    </content>        
-</document>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+      <media alt="Both images show a man in an ornate military uniform, riding a horse that is rearing to the left.">
+      <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_00_Horses.jpg"/>
+      </media>
+      <caption>Heroic Images. Inspired by Jacques-Louis David&#8217;s famous portrait of (a) Napol&#233;on Bonaparte crossing the Alps in May 1800, (b) Venezuelan artist Jos&#233; Hilari&#243;n Ibarra depicted the liberator Sim&#243;n Bol&#237;var on horseback in <emphasis effect="italics">Equestrian Portrait of Sim&#243;n Bol&#237;var</emphasis>, in about 1826. (credit left: modification of work &#8220;Napoleon Bonaparte crossing the Alps at the Grand Saint-Bernard&#8221; by Ch&#226;teau de Malmaison/Wikimedia Commons, Public Domain; credit right: modification of work &#8220;Equestrian portrait of Sim&#243;n Bol&#237;var&#8221; by Unknown/Wikimedia Commons, Public Domain)</caption>
+      </figure>
+      <para id="para-02101">In the late eighteenth century, new ideas of freedom spread throughout the Americas, raised by the Declaration of Independence in the former British American colonies in 1776 and by the French Revolution of 1789. These principles, combined with poor conditions for a majority of people in French, Spanish, and Portuguese America and a growing distrust of monarchy, soon led to revolutions against colonial authorities. In the first three decades of the nineteenth century, most European American colonies gained their independence. While each <term class="no-emphasis" id="term-00101">revolution</term> was unique, all were connected to the broader trend of using nationalism to oppose unequal power dynamics. During these rebellions, the majestic horse, a vital part of the history and mythology of power (consider Pegasus and centaurs, for example), was associated with liberators, who were admiringly depicted on their mounts to convey independence, courage, triumph, and heroism (<link target-id="fig-00001"/>Figure B08_00_Horses).</para>
+      <figure  id="fig-00002">
+      <media alt="In 1521, the Viceroyalty of New Spain is founded. In 1531, the Virgin of Guadalupe is said to appear, a portrait of the Virgin of Guadalupe is shown. In 1776, the United States declares independence. From 1780 to 1781, Tupac Amaru II leads a rebellion against Spain, and an image of Amaru is shown. In 1789, the French Revolution begins. In 1807, the Portuguese monarch relocates to Brazil, an image of the arrival of the Portuguese monarchy is shown. In 1810, Grito do Ipiranga declares Mexican Independence. In 1812, the Cadiz Constitution is adopted. In 1815, Simon Bolivar writes &#8220;Letter from Jamacia,&#8221; and an image of Bolivar is shown. In 1819, Gran Columbia is formed. In 1821, the Plan de Iguala cements Mexican independence. In 1822, the Ipiranga Cry declares Brazilian Independence, and an image of soldiers cheering independence is shown.">
+      <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_00_Timeline.jpg"/>
+      </media>
+      <caption>Timeline: Revolutions in Latin America. (credit &#8220;1531&#8221;: modification of work &#8220;Virgin of Guadalupe&#8221; by Unknown/Wikimedia Commons, Public Domain; credit &#8220;1780&#8211;1781&#8221;: modification of work &#8220;Portrait of T&#250;pac Amaru II&#8221; by Unknown/Wikimedia Commons, Public Domain; credit &#8220;1807&#8221;: modification of work &#8220;Embarkation of the Portuguese Royal Family&#8221; by Itamaraty Historical and Diplomatic Museum/Wikimedia Commons, Public Domain; credit &#8220;1815&#8221;: modification of work &#8220;Retrato ecuestre de Bolivar&#8221; by Galer&#237;a de Arte Nacional/Wikimedia Commons, Public Domain; credit &#8220;1822&#8221;: &#8220;Independence or Death&#8221; by Museu Paulista collection /Wikimedia Commons, Public Domain)</caption>
+      </figure>
+      <figure id="fig-00003">
+      <media alt="In the world map, most of South America and the bottom of North America are highlighted.">
+      <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_00_M-LocatorMap.jpg"/>
+      </media>
+      <caption>Locator Map: Revolutions in Latin America. (credit: modification of work &#8220;World map blank shorelines&#8221; by Maciej Jaros/Wikimedia Commons/Public Domain)</caption>
+      </figure>
+      </content>
+      </document>
+      
