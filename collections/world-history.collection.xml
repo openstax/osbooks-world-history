@@ -11,17 +11,6 @@
       <md:title>Test Unit</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Life and Labor in the Industrial World</md:title>
-          <col:content>
-            <col:module document="m00001"/>
-            <col:module document="m00002"/>
-            <col:module document="m00003"/>
-            <col:module document="m00004"/>
-            <col:module document="m00005"/>
-            <col:module document="m00006"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
           <md:title>Exchange in East Asia and the Indian Ocean</md:title>
           <col:content>
             <col:module document="m00007"/>
@@ -38,6 +27,17 @@
             <col:module document="m00013"/>
             <col:module document="m00014"/>
             <col:module document="m00015"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Life and Labor in the Industrial World</md:title>
+          <col:content>
+            <col:module document="m00001"/>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+            <col:module document="m00006"/>
           </col:content>
         </col:subcollection>
       </col:content>
