@@ -1,12 +1,12 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Portuguese South America</title>
-  <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Portuguese South America</md:title>
-    <md:content-id>m00015</md:content-id>
-    <md:uuid>d5c92d58-c274-4dc1-b2c7-ca1b1debfb23</md:uuid>
-  </metadata>
-  <content>
-    <section class="learning-objectives" id="sect-00001">
+<title>Portuguese South America</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+<md:title>Portuguese South America</md:title>
+<md:content-id>m00015</md:content-id>
+<md:uuid>d5c92d58-c274-4dc1-b2c7-ca1b1debfb23</md:uuid>
+</metadata>
+<content>
+<section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
@@ -151,6 +151,6 @@
     <definition id="def-00001">
     <term>Grito do Ipiranga</term>
     <meaning>the “Cry of Ipiranga,” Pedro I’s declaration of Brazilian independence, made at the Ipiranga River in 1822</meaning>
-    </definition>
-    </glossary>    
+   </definition>
+   </glossary>
 </document>
