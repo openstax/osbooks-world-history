@@ -52,7 +52,9 @@
         </col:subcollection>
         <col:subcollection>
           <md:title>The Interwar Period</md:title>
-          <col:content/>
+          <col:content>
+            <col:module document="m00021"/>
+          </col:content>
         </col:subcollection>
       </col:content>
     </col:subcollection>
