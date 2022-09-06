@@ -40,6 +40,12 @@
             <col:module document="m00006"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Revolutions in Europe and North America</md:title>
+          <col:content>
+            <col:module document="m00016"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
