@@ -30,6 +30,16 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Revolutions in Europe and North America</md:title>
+          <col:content>
+            <col:module document="m00016"/>
+            <col:module document="m00017"/>
+            <col:module document="m00018"/>
+            <col:module document="m00019"/>
+            <col:module document="m00020"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Life and Labor in the Industrial World</md:title>
           <col:content>
             <col:module document="m00001"/>
@@ -38,16 +48,6 @@
             <col:module document="m00004"/>
             <col:module document="m00005"/>
             <col:module document="m00006"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>Revolutions in Europe and North America</md:title>
-          <col:content>
-            <col:module document="m00016"/>
-            <col:module document="m00017"/>
-            <col:module document="m00018"/>
-            <col:module document="m00019"/>
-            <col:module document="m00020"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
