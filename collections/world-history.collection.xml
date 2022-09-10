@@ -72,6 +72,12 @@
             <col:module document="m00026"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Cold War Conflicts</md:title>
+          <col:content>
+            <col:module document="m00033"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
