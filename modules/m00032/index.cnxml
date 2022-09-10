@@ -6,14 +6,14 @@
     <md:uuid>2d9356c2-7840-4fb2-92f7-3a980c5bc916</md:uuid>
   </metadata>
   <content>
-    <section class="learning-objectives" id="sect-00001">
-    <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to:</para>
-    <list id="list-00001">
+   <section class="learning-objectives" id="sect-00001">
+   <title>Learning Objectives</title>
+   <para id="para-00001">By the end of this section, you will be able to:</para>
+   <list id="list-00001">
     <item>Describe <term class="no-emphasis" id="term-00001">tsarist autocracy</term> and the challenges to it in pre–World War I Russia</item>
     <item>Analyze how and why the <term class="no-emphasis" id="term-00002">Bolshevik Revolution</term> began and its effect on Russian participation in World War I</item>
     <item>Explain why <term class="no-emphasis" id="term-00003">World War I</term> came to an end in November 1918</item>
-    </list>
+   </list>
     </section>
     <para id="para-00002">World War I spelled the end of an era. The growth of socialist ideology and of the Bolshevik Party turned Russians’ thoughts away from the war and toward revolution, ending both tsarist rule and Russia’s involvement in the war long before the armistice of November 1918. German success early in 1918 was halted by the size of the armies it faced later that year. With the world fighting not only a war but a deadly influenza virus, the last year of conflict saw even more death and set the stage for a rebuilt world to emerge in the aftermath.</para>
     <section id="sect-00002">
@@ -147,5 +147,5 @@
     <term>Bolsheviks</term>
     <meaning>a radical majority faction of Russia’s Social Democratic Party led by Vladimir Lenin</meaning>
     </definition>
-    </glossary>
+ </glossary>
 </document>
