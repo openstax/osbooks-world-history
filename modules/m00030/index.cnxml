@@ -39,6 +39,7 @@
     <note class="own-words" id="note-00001">
     <title>A Poet’s View of War</title>
     <para id="para-00014">Siegfried <term class="no-emphasis" id="term-00025">Sassoon</term> was an English poet who rose to the rank of captain while serving in World War I. In his poetry, he described the horrors of the battlefield and critiqued those he saw as responsible for the war. “Counter-Attack” describes the experience of combat for an ordinary soldier on the day of a counterattack. <emphasis effect="italics">Allemands</emphasis> (literally, the Germans) refers to the opposing German forces.</para>
+    <quote id="quote-00001">
     <para id="para-00015">We’d gained our first objective hours before</para>
     <para id="para-00016">While dawn broke like a face with blinking eyes,</para>
     <para id="para-00017">Pallid, unshaven and thirsty, blind with smoke.</para>
@@ -52,6 +53,8 @@
     <para id="para-00025">And naked sodden buttocks, mats of hair,</para>
     <para id="para-00026">Bulged, clotted heads slept in the plastering slime.</para>
     <para id="para-00027">And then the rain began,—the jolly old rain!</para>
+    </quote>
+    <quote id="quote-00002">
     <para id="para-00028">A yawning soldier knelt against the bank,</para>
     <para id="para-00029">Staring across the morning blear with fog;</para>
     <para id="para-00030">He wondered when the Allemands would get busy;</para>
@@ -63,6 +66,8 @@
     <para id="para-00036">He crouched and flinched, dizzy with galloping fear,</para>
     <para id="para-00037">Sick for escape,—loathing the strangled horror</para>
     <para id="para-00038">And butchered, frantic gestures of the dead.</para>
+  </quote>
+  <quote id="quote-00003">
     <para id="para-00039">An officer came blundering down the trench:</para>
     <para id="para-00040">“Stand-to and man the fire step!” On he went . . .</para>
     <para id="para-00041">Gasping and bawling, “Fire-step . . . counter-attack!”</para>
@@ -79,6 +84,7 @@
     <para id="para-00052">Down, and down, and down, he sank and drowned,</para>
     <para id="para-00053">Bleeding to death. The counter-attack had failed.</para>
     <para id="para-00054">—Siegfried Sassoon, “<term class="no-emphasis" id="term-00026">Counter-Attack</term>”</para>
+    </quote>
     <list class="critical-thinking" id="list-00002">
     <item>How does Sassoon perceive war? Does he think it is heroic? Why or why not?</item>
     <item>How does Sassoon believe soldiers are treated in the war?</item>
@@ -149,7 +155,7 @@
     <note class="past-present" id="note-00003">
     <title>The <term class="no-emphasis" id="term-00080">Armenian Genocide</term></title>
     <para id="para-00088">The Armenian people continue to memorialize the genocide that occurred in 1915. They also fear similar actions today. The following account is by Jen Langley, a descendant of one of the survivors of 1915 who lives in the United States.</para>
-    <quote id="quote-00001"><para id="para-00089">My great-uncle also came from Van and in 1915 saw his entire family murdered. I grew up with him and his stories. I knew that he had to sleep next to a wall—a way to keep him in his bed as he relived the events of 1915 in his dreams, even as an 85-year-old man.</para>
+    <quote id="quote-00004"><para id="para-00089">My great-uncle also came from Van and in 1915 saw his entire family murdered. I grew up with him and his stories. I knew that he had to sleep next to a wall—a way to keep him in his bed as he relived the events of 1915 in his dreams, even as an 85-year-old man.</para>
     <para id="para-00090">We did not talk about recognition when I was growing up. Instead, I just experienced the culture that survived—I ate the food, sang the songs, and heard the stories of the “old country.” As a child, I did not understand yet that the sharing of survivor’s stories in my family was heavy with the need for acknowledgment. [. . .]</para>
     <para id="para-00091">Every Armenian in America has experienced meeting someone who doesn’t even know that Armenia is actually a country, never mind that an unrecognized genocide was committed against their people in 1915. Along with those who are simply unaware, there is the denial that continues to this day. For all of the beauty and richness of my Armenian culture that survived, I’ve come to learn that it’s profoundly difficult to heal as a people and as individuals in the absence of recognition.</para>
     <para id="para-00092">In 1996, eminent genocide scholar Gregory Stanton defined the eight states of genocide. And though “extermination” is one of the stages in his framework, it is <emphasis effect="italics">not</emphasis> the final stage as one might expect. On the contrary, the final stage in Stanton’s framework is denial. This illustrates so well that without recognition of the incalculable violence and losses faced by Armenians, the physical process of extermination begun in 1915 continues in nonphysical forms.</para>
