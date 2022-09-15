@@ -83,6 +83,16 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>The Causes and Consequences of World War II</md:title>
+          <col:content>
+            <col:module document="m00044"/>
+            <col:module document="m00045"/>
+            <col:module document="m00046"/>
+            <col:module document="m00047"/>
+            <col:module document="m00048"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Cold War Conflicts</md:title>
           <col:content>
             <col:module document="m00033"/>
