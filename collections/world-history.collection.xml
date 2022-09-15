@@ -20,6 +20,12 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Early Modern Africa and the Wider World</md:title>
+          <col:content>
+            <col:module document="m00039"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Revolutions in Europe and North America</md:title>
           <col:content>
             <col:module document="m00016"/>
