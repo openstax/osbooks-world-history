@@ -11,6 +11,12 @@
       <md:title>Test Unit</md:title>
       <col:content>
         <col:subcollection>
+          <md:title>Understanding the Past</md:title>
+          <col:content>
+            <col:module document="m00049"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Exchange in East Asia and the Indian Ocean</md:title>
           <col:content>
             <col:module document="m00007"/>
