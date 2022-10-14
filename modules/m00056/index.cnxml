@@ -24,7 +24,7 @@
     <figure id="fig-00001">
     <title>Causation Explained.</title>
     <media alt="This is a triangle-shaped chart consisting of three sections. The top of the triangle is labeled “Primary” and says “The professor assigned it and the material will appear on the test.” The middle of chart is labeled “Secondary” and says “I want to do well in school so that I can be successful.” The bottom of the chart is labeled “Tertiary” and says “Society tells me that an education will help me realize my full potential.”">
-       <image mime-type="image/jpg" src="../../media/OSX_WorldHist_A01_03_PriSecTer1.jpg"/>
+    <image mime-type="image/jpg" src="../../media/OSX_WorldHist_A01_03_PriSecTer1.jpg"/>
     </media>
     <caption>This causation chart answers the question, “Why are you reading?” on three levels. The primary level is the most immediate. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -188,4 +188,4 @@
     <meaning>a field of history that looks at all classes and categories of people, not just elites</meaning>
     </definition>
     </glossary>
-</document>
+    </document>
