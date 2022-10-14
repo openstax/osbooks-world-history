@@ -11,9 +11,10 @@
       <md:title>Unit A</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Unit A: Understanding the Past</md:title>
+          <md:title>Understanding the Past - Unit A</md:title>
           <col:content>
             <col:module document="m00053"/>
+            <col:module document="m00054"/>
           </col:content>
         </col:subcollection>
       </col:content>
