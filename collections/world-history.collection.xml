@@ -53,6 +53,15 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>The Islamic World</md:title>
+          <col:content>
+            <col:module document="m00058"/>
+            <col:module document="m00059"/>
+            <col:module document="m00060"/>
+            <col:module document="m00061"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Revolutions in Europe and North America</md:title>
           <col:content>
             <col:module document="m00016"/>
