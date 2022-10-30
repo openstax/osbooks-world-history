@@ -62,6 +62,16 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Foundations of the Atlantic World</md:title>
+          <col:content>
+            <col:module document="m00062"/>
+            <col:module document="m00063"/>
+            <col:module document="m00064"/>
+            <col:module document="m00065"/>
+            <col:module document="m00066"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Revolutions in Europe and North America</md:title>
           <col:content>
             <col:module document="m00016"/>
