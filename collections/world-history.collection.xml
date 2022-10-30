@@ -92,6 +92,12 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Expansion in the Industrial Age</md:title>
+          <col:content>
+            <col:module document="m00067"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Life and Labor in the Industrial World</md:title>
           <col:content>
             <col:module document="m00001"/>
