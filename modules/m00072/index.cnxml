@@ -6,6 +6,7 @@
     <md:uuid>ba929b4b-e4b9-448e-b12c-87d10449c1f5</md:uuid>
   </metadata>
   <content class="appendix">
+    <section class="column-container" id="sect-00024">
       <section id="sect-00001">
       <title>A</title>
       <list id="list-00001">
@@ -145,5 +146,6 @@
       <item><emphasis effect="bold">Zimmermann Telegram</emphasis> a 1917 telegram sent by Germany’s foreign minister offering an alliance with Mexico in return for Mexico causing disturbances along its U.S. border</item>
       </list>
       </section>
+    </section>
       </content>
 </document>
