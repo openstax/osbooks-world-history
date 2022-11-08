@@ -20,11 +20,6 @@
             <col:module document="m00056"/>
           </col:content>
         </col:subcollection>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Part VI: An Age of Revolution, 1750-1914</md:title>
-      <col:content>
         <col:subcollection>
           <md:title>Understanding the Past</md:title>
           <col:content>
@@ -72,6 +67,11 @@
             <col:module document="m00066"/>
           </col:content>
         </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part VI: An Age of Revolution, 1750-1914</md:title>
+      <col:content>
         <col:subcollection>
           <md:title>Revolutions in Europe and North America</md:title>
           <col:content>
@@ -113,6 +113,11 @@
             <col:module document="m00006"/>
           </col:content>
         </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part VII: The Modern World, 1914-Present</md:title>
+      <col:content>
         <col:subcollection>
           <md:title>The War to End All Wars</md:title>
           <col:content>
