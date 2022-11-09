@@ -1,0 +1,26 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>World History Volume 1</md:title>
+    <md:slug>world-history-volume-1</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>685e3163-1032-4529-bb3a-f97a54407214</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+    <md:content-id>col11111</md:content-id>
+  </col:metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Unit A</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Understanding the Past</md:title>
+          <col:content>
+            <col:module document="m00053"/>
+            <col:module document="m00054"/>
+            <col:module document="m00055"/>
+            <col:module document="m00056"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
