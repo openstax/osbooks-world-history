@@ -1,6 +1,7 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:title>World History Volume 2, from 1400</md:title>
+    <md:content-id>col22222</md:content-id>
     <md:slug>world-history-volume-2</md:slug>
     <md:language>en</md:language>
     <md:uuid>685e3163-1032-4529-bb3a-f97a54412704</md:uuid>
@@ -8,7 +9,7 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Part V: Connections Across Continents, 1500-1800</md:title>
+      <md:title>Connections Across Continents, 1500-1800</md:title>
       <col:content>
         <col:subcollection>
           <md:title>Understanding the Past</md:title>
@@ -60,7 +61,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part VI: An Age of Revolution, 1750-1914</md:title>
+      <md:title>An Age of Revolution, 1750-1914</md:title>
       <col:content>
         <col:subcollection>
           <md:title>Colonization and Economic Expansion</md:title>
@@ -115,7 +116,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part VII: The Modern World, 1914-Present</md:title>
+      <md:title>The Modern World, 1914-Present</md:title>
       <col:content>
         <col:subcollection>
           <md:title>The War to End All Wars</md:title>
