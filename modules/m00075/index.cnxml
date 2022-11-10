@@ -1,10 +1,25 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00075</md:content-id>
     <md:uuid>f48792a9-1a6b-4211-8dcc-7fc6b0375cd1</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <title>Furs and Tobacco. </title>
+    <media alt="A black and white image is shown of two European men and two Native Americans. The European men are dressed in long coats, knickers, and hats. One of them leans on a barrel while smoking a short pipe while the other one stands with his right hand on the barrel, extending his left arm to a Native American man handing him an animal fur. The Native American man wears a loincloth, several necklaces, moccasins, has a cloth draped over his right shoulder, wears jewelry on his head, and stands in front of a pile of animal furs. His body is striped with paint, and he holds a bow and arrow in his other hand. The second Native American man squats to the right of the barrel wearing a cloth around his left shoulder, pants, and moccasins, while smoking a long pipe and blowing smoke out his mouth. In the left corner of the image a large package tied with strings sits on the ground and rocks, hills, and sparse bushes can be seen in the background.">
+    <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B06_00_FurTraders.jpg"/>
+    </media>
+    <caption>This 1777 Canadian image depicts European traders negotiating with Native Americans (called First Nations in Canada) in the course of the era’s highly profitable fur trade. Note that a European and a Native American are both smoking pipes, probably filled with tobacco, another important trade good at this time. (credit: modification of work “A Map of the Inhabited Part of Canada, Frontispiece by William Faden 1777” by Library of Congress Prints and Photographs division/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00001">In the eighteenth and nineteenth centuries, the world’s great oceans effectively became highways as European explorers, merchants, and laborers proved willing to journey greater distances than they had in the past and traveled to new destinations in the Americas, Africa, and Asia. New economic systems propelled exploration, communication, interaction, exchange, and—in many tragic cases—exploitation. Communities in Asia, Africa, and the Americas that had once had little or no contact with one another now found themselves enmeshed in a variety of exchanges. Confronted with a changing world, every community made hard decisions. Some, like the Native Americans seen here (<link target-id=""/>Figure B06_00_FurTraders), embraced the newcomers as trading partners or political allies, gaining access to new goods and sometimes profiting for a time. Others resisted the newcomers, often at great cost to themselves.</para>
+    <figure id="fig-00002">
+    <title>Timeline: Colonization and Economic Expansion. </title>
+    <media alt="A timeline of the events from this chapter is shown. 1492: Christopher Columbus arrives in the Americas; an image is shown of a man kneeling on the ground holding a large flag and sword surrounded by people in a forest with ships in the background. 1519–1521: Hernán Cortés’ forces defeat the Aztecs; an image shows an army marching with a large flag while natives bow behind them. 1587: Roanoke Colony founded; a map is shown of a country and its coast with ships drawn in the water. 1756–1763: Seven Years’ War. 1776: Adam Smith writes The Wealth of Nations; a profile drawing of a man with long white hair in a dark coat is shown. 1776: The United States declares independence from Great Britain; a copy of the Declaration of Independence is shown. 1811: Luddites destroy machines; a drawing of a factory shows two men destroying the machinery. 1842: China surrenders Hong Kong to Great Britain. 1848: Karl Marx writes The Communist Manifesto; a picture shows a man in a dark suit and white hair and beard sitting in a chair. 1857–1859: Indian Mutiny.">
+    <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B06_00_Timeline.jpg"/>
+    </media>
+    <caption>(credit “1492”: modification of work “Columbus taking possession of the new country” by Library of Congress's Prints and Photographs division/Wikimedia Commons, Public Domain; credit “1519–1521”: modification of work “Codex Azcatitlan” by Gallica Digital Library/Wikimedia Commons, Public Domain; credit “1587”: modification of work “Roanoke map 1584” by The British Museum/Wikimedia Commons, Public Domain; credit “1776 top”: modification of work “Profile of Adam Smith” by Adam Smith - Vanderblue Collection/Wikimedia Commons, Public Domain; credit “1776 bottom”: modification of work “Declaration of Independence” by Library of Congress/Wikimedia Commons, Public Domain; credit “1811”: modification of work “Frame-breakers, or Luddites, smashing a loom” by Unknown/Wikimedia Commons, Public Domain; credit “1848”: modification of work “Portrait of Karl Marx” by International Institute of Social History/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    </content>
 </document>
