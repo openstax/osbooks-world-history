@@ -20,7 +20,7 @@
     <title>The Establishment of the Kingdom of Brazil</title>
     <para id="para-00003">In 1807, when <term class="no-emphasis" id="term-00004">Napoléon</term> instituted his Continental System aimed at isolating Britain and economically destroying it, <term class="no-emphasis" id="term-00005">Portugal</term>, notable for its long-standing alliance with Britain, was not able to comply. To punish Portugal’s breaking of his naval blockade, Napoléon obtained the Spanish Crown’s permission to invade Portugal by land (since the French navy was not capable of facing the British at sea). French troops commanded by General Jean-Andoche <term class="no-emphasis" id="term-00006">Junot</term> swept across the Iberian Peninsula to storm into Lisbon.</para>
     <para id="para-00004">In view of these events, Lord <term class="no-emphasis" id="term-00007">Strangford</term>, Great Britain’s diplomatic envoy to Portugal, counseled the Portuguese royal family to move the court to Portuguese America. Queen Maria wore the Portuguese Crown, but because she had been declared mentally incapacitated, her son the Prince Regent João was left with the decision. The imminent arrival of French forces in November 1807 finally convinced João that fleeing to Brazil was the only solution. As the troops approached, the Portuguese royal family and its entourage of about ten thousand people escaped to Brazil in a fleet under British convoy (<link target-id="fig-00001"/>). In return for their assistance, the British received generous commercial privileges in Brazil.</para>
-    <figure id="fig-00001">
+    <figure id="fig-00001" class="scaled-down">
       <title>A Royal Family Flees.</title>
     <media alt="A crowd of men span the painting from left to right and stand facing forward. There are a couple of children with them. A fleet of large ships is in the background.">
     <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_04_CourtBoard.jpg"/>
@@ -31,7 +31,7 @@
     <para id="para-00006">The Portuguese Crown’s willingness to share power with the local planter aristocracy led to the expansion of institutions such as hospitals, libraries, and schools and universities. Vital reforms in administration, agriculture, and manufacturing were instituted. Though the cultural initiatives were welcome, the new tax burden imposed to pay for the needs of the royal court, the expanded bureaucracy, and the war against France, as well as Brazil’s great dependence on Great Britain, were not. The presence of the Portuguese Crown centralized control of Brazil in Rio de Janeiro to a great degree, however, and this centralization became a powerful force for the unification of Brazil as one nation.</para>
     <para id="para-00007">Even after the fall of Napoléon in 1814 and the restoration of Bourbon kings in both France and Spain, the Portuguese Crown resolutely stayed on in Brazil. On December 16, 1815, Brazil was officially given the status of a kingdom. When Queen <term class="no-emphasis" id="term-00010">Maria I</term> died there in 1816, her son became João VI, king of the United Kingdoms of Portugal, Brazil, and Algarve (the southern edge of Portugal).</para>
     <para id="para-00008">Brazil also opened its ports to Bonapartist immigrants, including republican-minded scientists, architects, artisans, freemasons, engineers, painters, and officers who crossed the Atlantic with their liberal books and ideas intending to settle permanently in the new land. For instance, French painter Jean-Baptiste <term class="no-emphasis" id="term-00011">Debret</term>, who had studied at France’s prestigious Académie des beaux-arts, went to Brazil in March 1816 as a member of the <term class="no-emphasis" id="term-00012">French Artistic Mission</term>, a group of Bonapartist artists and artisans invited to establish an Arts and Crafts Lyceum in Rio de Janeiro, sponsored by King <term class="no-emphasis" id="term-00013">João VI</term>. The Lyceum later became the Academia Imperial de Belas-Artes under Emperor Pedro I. Debret painted many portraits of the imperial court and produced many lithographs and paintings depicting people and everyday life in Brazil (<link target-id="fig-00002"/>). He took a particular interest in slavery and in the Indigenous peoples. Debret returned to France in 1831 and became a member of the Académie des beaux-arts. From 1834 to 1839 he published his monumental series of three volumes of engravings: <emphasis effect="italics">A Picturesque and Historic Voyage to Brazil, or the Sojourn of a French Artist in Brazil (Voyage pittoresque et historique au Brésil ou Séjour d’un artiste français au Brésil</emphasis>).</para>
-    <figure id="fig-00002">
+    <figure id="fig-00002" class="scaled-down-30">
       <title>King João VI.</title>
     <media alt="In this painting, King Joao VI wears an ornate uniform, decorated by medals and jewelry. His left hand rests on the hilt of a sword. He carries a scepter in his right hand. A crown sits nearby.">
     <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_04_KingJoao.jpg"/>
@@ -55,7 +55,7 @@
     <caption>Pedro Américo’s massive 1888 painting shows Pedro I declaring Brazil’s independence with the Grito do Ipiranga on September 7, 1822. (credit: “Independence or Death” by Museu Paulista collection /Wikimedia Commons, Public Domain)</caption>
     </figure>
     <para id="para-00013">At first, the Portuguese Cortes refused to recognize Brazil’s independence, though away from the cities of Rio de Janeiro and São Paulo and their adjoining provinces, few local <emphasis effect="italics">juntas</emphasis> declared themselves in favor of Portuguese rule. Determined to beat the Portuguese, Pedro I invited Thomas <term class="no-emphasis" id="term-00019">Cochrane</term>, a former British naval officer, to serve Brazil as first admiral and commander in chief (<link target-id="fig-00004"/>).</para>
-    <figure id="fig-00004">
+    <figure id="fig-00004" class="scaled-down-30">
       <title>Thomas Cochrane.</title>
     <media alt="In this engraving Thomas Cochrane, he wears an ornate military uniform. He carries a scope.">
     <image mime-type="image/jpg" src="../../media/OSX_WorldHist_B08_04_Cochrane.jpg"/>
@@ -155,7 +155,7 @@
     <glossary>
     <definition id="def-00001">
     <term>Grito do Ipiranga</term>
-    <meaning>the “Cry of Ipiranga,” Pedro I’s declaration of Brazilian independence, made at the Ipiranga River in 1822</meaning>
+    <meaning>the “cry” of Ipiranga, Pedro I’s declaration of Brazilian independence, made at the Ipiranga River in 1822</meaning>
     </definition>
     </glossary>    
 </document>
