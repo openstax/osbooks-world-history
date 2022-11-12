@@ -1,8 +1,8 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:title>World History Volume 2, from 1400</md:title>
-    <md:content-id>col22222</md:content-id>
     <md:slug>world-history-volume-2</md:slug>
+    <md:content-id>col22222</md:content-id>
     <md:language>en</md:language>
     <md:uuid>685e3163-1032-4529-bb3a-f97a54412704</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
@@ -159,6 +159,16 @@
             <col:module document="m00036"/>
             <col:module document="m00037"/>
             <col:module document="m00038"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Contemporary World and Ongoing Challenges</md:title>
+          <col:content>
+            <col:module document="m00079"/>
+            <col:module document="m00080"/>
+            <col:module document="m00081"/>
+            <col:module document="m00082"/>
+            <col:module document="m00083"/>
           </col:content>
         </col:subcollection>
       </col:content>
