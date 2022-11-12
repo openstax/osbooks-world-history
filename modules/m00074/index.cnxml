@@ -35,27 +35,34 @@
     <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure id="fig-00005">
+      <title>Map of EuropeTEST.</title>
+      <media alt="Map of the European continent.">
+      <image mime-type="image/jpg" src="../../media/WW_Europe_TEST_Oversize.jpg"/>
+      </media>
+      <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+      </figure>
+    <figure id="fig-00006">
     <title>Map of the Middle East.</title>
     <media alt="Map of the Middle East.">
     <image mime-type="image/jpg" src="../../media/WW_Mideast.jpg"/>
     </media>
     <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    <figure id="fig-00006">
+    <figure id="fig-00007">
     <title>Map of North America.</title>
     <media alt="Map of the North American continent.">
     <image mime-type="image/jpg" src="../../media/WW_North America.jpg"/>
     </media>
     <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    <figure id="fig-00007">
+    <figure id="fig-00008">
     <title>Map of South America.</title>
     <media alt="Map of the South American continent.">
     <image mime-type="image/jpg" src="../../media/WW_South America.jpg"/>
     </media>
     <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    <figure id="fig-00008">
+    <figure id="fig-00009">
     <title>Map of Southeast Asia.</title>
     <media alt="Map of Southeast Asia.">
     <image mime-type="image/jpg" src="../../media/WW_Southeast Asia.jpg"/>
