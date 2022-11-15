@@ -67,15 +67,15 @@
     <section id="sect-00007">
     <title>Chapter B06: Colonization and Economic Expansion</title>
     <list id="list-00006">
-    <item>[Link: Figure B06_01_M-SpColony]Spain’s Colonies[/link]</item>
-    <item>[Link: Figure B06_01_M-EngCol]English Settlements[/link]</item>
-    <item>[Link: Figure B06_01_M-DutFren]Dutch and French Settlements[/link]</item>
-    <item>[Link: Figure B06_03_M-7YrGlobl]The Seven Years’ War[/link]</item>
-    <item>[Link: Figure B06_03_M-FrenIndn]Key Battles[/link]</item>
-    <item>[Link: Figure B06_03_M-7YearsEur]Allies in Europe[/link]</item>
-    <item>[Link: Figure B06_03_M-BritEInd]Britain’s Growing Control in India[/link]</item>
-    <item>[Link: Figure B06_03_M-GCanal]China’s Grand Canal[/link]</item>
-    <item>[Link: Figure B06_04_M-AfrCol]Colonization in Africa[/link]</item>
+      <item><link target-id="fig-00002" document="m00076">Spain’s Colonies</link></item>
+      <item><link target-id="fig-00005" document="m00076">English Settlements</link></item>
+      <item><link target-id="fig-00007" document="m00076">Dutch and French Settlements</link></item>
+      <item><link target-id="fig-00001" document="m00077">The Seven Years’ War</link></item>
+      <item><link target-id="fig-00002" document="m00077">Key Battles</link></item>
+      <item><link target-id="fig-00003" document="m00077">Allies in Europe</link></item>
+      <item><link target-id="fig-00004" document="m00077">Britain’s Growing Control in India</link></item>
+      <item><link target-id="fig-00006" document="m00077">China’s Grand Canal</link></item>
+      <item><link target-id="fig-00008" document="m00077">Colonization in Africa</link></item>
     </list>
     </section>
     <section id="sect-00008">
@@ -114,13 +114,13 @@
     <section id="sect-00011">
     <title>Chapter B11:The War to End All Wars</title>
     <list id="list-00010">
-    <item><link target-id="fig-00003" document="m00027">Figure B11_00_M-LocatorMap]Locator Map: The War to End All Wars</link></item>
-    <item><link target-id="fig-00001" document="m00028">Figure B11_01_M-Cartoon]The Kaiser’s View of Germany</link></item>
-    <item><link target-id="fig-00002" document="m00028">Figure B11_01_M-WWIGerm]German Colonies in 1914</link></item>
-    <item><link target-id="fig-00001" document="m00029">Figure B11_02_M-OttEmp]The Ottoman Empire, 1300–1920</link></item>
-    <item><link target-id="fig-00002" document="m00029">Figure B11_02_M-AstHLing]Ethnic Groups in Austria-Hungary</link></item>
-    <item><link target-id="fig-00003" document="m00029">Figure B11_01_M-Balkan]The Balkans, Pre-War</link></item>
-    <item><link target-id="fig-00005" document="m00029">Figure B11_01_M-WWICoun]Allegiances in World War I</link></item>
+    <item><link target-id="fig-00003" document="m00027">Locator Map: The War to End All Wars</link></item>
+    <item><link target-id="fig-00001" document="m00028">The Kaiser’s View of Germany</link></item>
+    <item><link target-id="fig-00002" document="m00028">German Colonies in 1914</link></item>
+    <item><link target-id="fig-00001" document="m00029">The Ottoman Empire, 1300–1920</link></item>
+    <item><link target-id="fig-00002" document="m00029">Ethnic Groups in Austria-Hungary</link></item>
+    <item><link target-id="fig-00003" document="m00029">The Balkans, Pre-War</link></item>
+    <item><link target-id="fig-00005" document="m00029">Allegiances in World War I</link></item>
     <item><link target-id="fig-00003" document="m00030">The Ill-Fated Gallipoli Campaign</link></item>
     <item><link target-id="fig-00004" document="m00030">Sykes-Picot Agreement</link></item>
     <item><link target-id="fig-00002" document="m00032">Treaty of Brest-Litovsk</link></item>
@@ -163,11 +163,11 @@
     <section id="sect-00015">
     <title>Chapter B15: The Contemporary World and Ongoing Challenges</title>
     <list id="list-00014">
-    <item>[Link: Figure B15_01_M-NAFTA]North American Free Trade Agreement[/link]</item>
-    <item>[Link: Figure B15_01_M-ASEAN]Association of Southeast Asian Nations[/link]</item>
-    <item>[Link: Figure B15_03_M-EgyptRev]The Egyptian Revolution[/link]</item>
-    <item>[Link: Figure B15_04_M-Salvador]El Salvador’s Civil War[/link]</item>
-    <item>[Link: Figure B15_04_M-GlobalNS]The Global North and the Global South[/link]</item>
+      <item><link target-id="fig-00002" document="m00080">North American Free Trade Agreement</link></item>
+      <item><link target-id="fig-00003" document="m00080">Association of Southeast Asian Nations</link></item>
+      <item><link target-id="fig-00005" document="m00082">The Egyptian Revolution</link></item>
+      <item><link target-id="fig-00006" document="m00083">El Salvador’s Civil War</link></item>
+      <item><link target-id="fig-00011" document="m00083">The Global North and the Global South</link></item>
     </list>
     </section>
     </section>
@@ -178,16 +178,16 @@
     <item><link target-id="fig-00002" document="m00039">Timeline: Early Modern Africa and the Wider World</link></item>
     <item><link target-id="fig-00002" document="m00058">Timeline: The Islamic World</link></item>
     <item><link target-id="fig-00002" document="m00062">Timeline: Foundations of the Atlantic World</link></item>
-    <item>[Link: Figure B06_00_Timeline]Timeline: Colonization and Economic Expansion[/link]</item>
+    <item><link target-id="fig-00002" document="m00075">Timeline: Colonization and Economic Expansion</link></item>
     <item><link target-id="fig-00002" document="m00016">Timeline: Revolutions in Europe and North America</link></item>
     <item><link target-id="fig-00002" document="m00011">Timeline: Revolutions in Latin America</link></item>
     <item><link target-id="fig-00002" document="m00067">Timeline: Expansion in the Industrial Age</link></item>
-    <item><link target-id="fig-00002" document="m00001">Figure B10_00_Timeline]Timeline: Life and Labor in the Industrial World</link></item>
+    <item><link target-id="fig-00002" document="m00001">Timeline: Life and Labor in the Industrial World</link></item>
     <item><link target-id="fig-00002" document="m00027">Timeline: The War to End All Wars</link></item>
     <item><link target-id="fig-00002" document="m00021">Timeline: The Interwar Period</link></item>
     <item><link target-id="fig-00002" document="m00044">Timeline: The Causes and Consequences of World War II</link></item>
     <item><link target-id="fig-00002" document="m00033">Timeline: Cold War Conflicts</link></item>
-    <item>[Link: Figure B15_00_Timeline]Timeline: The Contemporary World and Ongoing Challenges[/link]</item>
+    <item><link target-id="fig-00002" document="m00079">Timeline: The Contemporary World and Ongoing Challenges</link></item>
     </list>
     </section>
     </content>
