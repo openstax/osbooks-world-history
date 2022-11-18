@@ -180,7 +180,7 @@
       Christopher Ward, Clayton State University<newline/>
       Laura Wood, Tarrant County College<newline/>
       Clinton Young, University of Arkansas at Monticello</para>
-         </section>
+      </section>
       </section>
       <section id="sect-00019">
       <title>Additional Resources</title>
@@ -190,7 +190,6 @@
       <para id="para-00022"><emphasis effect="bold">Instructor’s answer guide.</emphasis> Each component of the instructor’s guide is designed to provide maximum guidance for delivering the content in an interesting and dynamic manner.</para>
       <para id="para-00023"><emphasis effect="bold">Test bank.</emphasis> With nearly 1,300 assessments across both <emphasis effect="italics">World History</emphasis> volumes, instructors can customize tests to support a variety of course objectives. The test bank includes review questions (multiple-choice, identification, fill-in-the-blank, true/false), short answer questions, and long answer questions to assess students on a variety of levels. The test bank is available in Word format.</para>
       <para id="para-00024"><emphasis effect="bold">PowerPoint lecture slides.</emphasis> The PowerPoint slides provide learning objectives, images and descriptions, feature focuses, and discussion questions as a starting place for instructors to build their lectures.</para>
-      </section>
       </section>
       <section id="sect-00021">
       <title>Academic Integrity</title>
@@ -203,6 +202,7 @@
          <caption>Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
       </figure>
       <para id="para-00027">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org">https://academicintegrity.org/</link>.</para>
+      </section>
       <section id="sect-00022">
       <title>Community Hubs</title>
       <para id="para-00028">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
@@ -212,5 +212,6 @@
       <para id="para-00029">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
       </section>
       </section>
+      
   </content>
 </document>
