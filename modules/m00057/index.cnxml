@@ -6,70 +6,81 @@
     <md:uuid>0ba6ad9d-ea5f-431c-97b2-69e80fc28323</md:uuid>
   </metadata>
   <content class="appendix">
+
     <section id="sect-00001">
-      <title>Resources for Primary Sources</title>
-      <para id="para-00001"><link url="https://www.worldhistory.org/">World History Encyclopedia</link> includes timelines and primary sources.</para>
-      <para id="para-00002"><link url="https://dp.la/primary-source-sets">Digital Public Library of America: Primary Source Sets</link> includes collections of primary sources.</para>
-      <para id="para-00003"><link url="https://www.docsteach.org/">DocsTeach</link> includes many primary sources.</para>
-      <para id="para-00004"><link url="https://sourcebooks.fordham.edu/">Internet History Sourcebooks Project</link> includes historical texts.</para>
-      <para id="para-00005"><link url="https://www.loc.gov/collections/world-digital-library/about-this-collection/">Library of Congress: World Digital Library Collection</link> various historical documents.</para>
-      <para id="para-00006"><link url="https://visualizingcultures.mit.edu/home/index.html">MIT Visualizing Cultures</link> aims to reconstruct the past.</para>
-      <para id="para-00007"><link url="https://www.si.edu/collections">Smithsonian Collections</link></para>
-      </section>
-      <section id="sect-00002">
-      <title>Resources for Videos</title>
-      <para id="para-00008"><link url="https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9">CrashCourse World History</link> includes brief educational videos on a variety of world history topics.</para>
-      </section>
-      <section id="sect-00003">
-      <title>Resources for Art History</title>
-      <para id="para-00009"><link url="https://www.metmuseum.org/toah/">Heilbrunn Timeline of Art History</link> includes collections from various periods of world history.</para>
-      <para id="para-00010"><link url="https://smarthistory.org/introductory-guides-overview">SmartHistory</link> art history overview and organized by region.</para>
-      </section>
-      <section id="sect-00004">
       <title>How to Study World History</title>
-      <para id="para-00011"><link url="http://chnm.gmu.edu/worldhistorysources/index.html">World History Sources</link> includes various strategies for analyzing historical documents.</para>
-      </section>
-      <section id="sect-00005">
-      <title>Website Collections</title>
-      <para id="para-00012"><link url="https://worldhistorymatters.org/">World History Matters</link> is a collection of various historical websites.</para>
-      <para id="para-00013"><link url="https://rrchnm.org/our-work/">Roy Rosenzweig Center for history and New Media</link> various collections.</para>
-      </section>
-      <section id="sect-00006">
+      <para id="para-00001"><link url="http://chnm.gmu.edu/worldhistorysources/index.html">World History Sources</link> includes various strategies for analyzing historical documents.</para>
+    </section>
+
+    <section id="sect-00002">
+      <title>Resources for Primary Sources</title>
+      <para id="para-00002"><link url="https://www.worldhistory.org/">World History Encyclopedia</link> includes timelines and primary sources.</para>
+      <para id="para-00003"><link url="https://dp.la/primary-source-sets">Digital Public Library of America: Primary Source Sets</link> includes collections of primary sources.</para>
+      <para id="para-00004"><link url="https://www.docsteach.org/">DocsTeach</link> includes many primary sources.</para>
+      <para id="para-00005"><link url="https://sourcebooks.fordham.edu/">Internet History Sourcebooks Project</link> includes historical texts.</para>
+      <para id="para-00006"><link url="https://www.loc.gov/collections/world-digital-library/about-this-collection/">Library of Congress: World Digital Library Collection</link> presents various historical documents.</para>
+      <para id="para-00007"><link url="https://visualizingcultures.mit.edu/home/index.html">MIT Visualizing Cultures</link> aims to reconstruct the past.</para>
+      <para id="para-00008"><link url="https://www.si.edu/collections">Smithsonian Collections</link> showcases the Smithsonian’s vast collection of objects from the natural and cultural world.</para>
+    </section>
+
+    <section id="sect-00003">
       <title>Resources for Maps</title>
-      <para id="para-00014"><link url="https://geology.com/world/">Geology.com Maps</link> includes many different maps.</para>
-      <para id="para-00015"><link url="https://www.cia.gov/the-world-factbook/maps/">CIA World Factbook</link></para>
-      <para id="para-00016"><link url="https://mapmaker.nationalgeographic.org/">National Geographic MapMaker</link></para>
-      </section>
-      <section id="sect-00007">
-      <title>Resources for Virtual Museum Content</title>
-      <para id="para-00017"><link url="https://artsandculture.withgoogle.com/naturalhistorymuseum/">Natural History Museum</link></para>
-      <para id="para-00018"><link url="https://britishmuseum.withgoogle.com/">The British Museum</link></para>
-      </section>
-      <section id="sect-00008">
-      <title>Resources for 3D Tours</title>
-      <para id="para-00019"><link url="https://www.youtube.com/watch?v=NZ2NWXp-1Y4">virtual Rome: What Did Ancient Rome Look Like?</link></para>
-      <para id="para-00020"><link url="https://www.youtube.com/watch?v=ulAxMLJ7O7M">Virtual Tour in Ancient Athens (5<sup>th</sup> century BC) – 3D Reconstruction</link></para>
-      </section>
-      <section id="sect-00009">
+      <para id="para-00009"><link url="https://geology.com/world/">Geology.com Maps</link> includes many different maps.</para>
+      <para id="para-00010"><link url="https://www.cia.gov/the-world-factbook/maps/">CIA World Factbook</link> presents a variety of world, regional, and country maps.</para>
+      <para id="para-00011"><link url="https://mapmaker.nationalgeographic.org/">National Geographic MapMaker</link> connects to an interactive mapmaking tool.</para>
+    </section>
+
+    <section id="sect-00004">
+    <title>Resources for Videos</title>
+    <para id="para-00012"><link url="https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9">CrashCourse World History</link> includes brief educational videos on a variety of world history topics.</para>
+    </section>
+
+    <section id="sect-00005">
+      <title>Website Collections</title>
+      <para id="para-00013"><link url="https://worldhistorymatters.org/">World History Matters</link> is a collection of various historical websites.</para>
+      <para id="para-00014"><link url="https://rrchnm.org/our-work/">Roy Rosenzweig Center for history and New Media</link> includes access to online resources for teachers, online collections, exhibits and collecting sites, and open-source software.</para>
+    </section>
+
+    <section id="sect-00006">
+      <title>Resources for Art History</title>
+      <para id="para-00015"><link url="https://www.metmuseum.org/toah/">Heilbrunn Timeline of Art History</link> includes collections from various periods of world history.</para>
+      <para id="para-00016"><link url="https://smarthistory.org/introductory-guides-overview">SmartHistory</link> presents an art history overview and collections organized by religion and time period.</para>
+    </section>
+      
+    <section id="sect-00007">
+      <title>Magazine Articles</title>
+      <para id="para-00017"><link url="https://www.historyextra.com/">BBC’s History Extra</link></para>
+    </section>
+       
+    <section id="sect-00008">
       <title>Podcasts</title>
-      <para id="para-00021"><link url="https://www.listennotes.com/podcasts/the-almost-forgotten-the-almost-forgotten-_5EyY-TBo6V/">The Almost Forgotten</link></para>
-      <para id="para-00022"><link url="https://podcasts.apple.com/us/podcast/the-history-chicks/id415983183">The History Chicks</link></para>
-      <para id="para-00023"><link url="https://15minutehistory.org/">Fifteen Minute History</link></para>
-      <para id="para-00024"><link url="https://podcasts.apple.com/us/podcast/the-ancients/id1520403988">The Ancients</link></para>
+      <para id="para-00018"><link url="https://www.listennotes.com/podcasts/the-almost-forgotten-the-almost-forgotten-_5EyY-TBo6V/">The Almost Forgotten</link></para>
+      <para id="para-00019"><link url="https://www.historyextra.com/podcast">BBC’s History Extra</link></para>
+      <para id="para-00020"><link url="https://podcasts.apple.com/us/podcast/fall-of-civilizations-podcast/id1449884495">The Fall of Civilizations</link></para>
+      <para id="para-00021"><link url="https://15minutehistory.org/">Fifteen Minute History</link></para>
+      <para id="para-00022"><link url="https://podcasts.apple.com/us/podcast/the-history-chicks/id415983183">The History Chicks</link></para> 
+      <para id="para-00023"><link url="https://podcasts.apple.com/us/podcast/the-ancients/id1520403988">The Ancients</link></para>
+      <para id="para-00024"><link url="https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474">The History of Rome</link></para>
       <para id="para-00025"><link url="https://podcasts.apple.com/us/podcast/not-just-the-tudors/id1564113869">Not Just the Tudors</link></para>
-      <para id="para-00026"><link url="https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474">The History of Rome</link></para>
-      <para id="para-00027"><link url="https://podcasts.apple.com/us/podcast/revolutions/id703889772">Revolutions</link></para>
-      <para id="para-00028"><link url="https://historyofthetwentiethcentury.com/">The History of the Twentieth Century</link></para>
-      <para id="para-00029"><link url="https://www.coldwarvault.com/">The Cold War Vault</link></para>
-      <para id="para-00030"><link url="https://thehistoryofchina.wordpress.com/">The History of China</link></para>
-      <para id="para-00031"><link url="https://podcasts.apple.com/us/podcast/the-china-history-podcast/id489369498">The China History Podcast</link></para>
-      <para id="para-00032"><link url="https://podcasts.apple.com/us/podcast/history-of-japan/id635736811">The History of Japan</link></para>
-      <para id="para-00033"><link url="https://podcasts.apple.com/us/podcast/fall-of-civilizations-podcast/id1449884495">The Fall of Civilizations</link></para>
-      <para id="para-00034"><link url="https://www.stitcher.com/search/%22new%20books%20in%22">New Books Network</link></para>
+      <para id="para-00026"><link url="https://podcasts.apple.com/us/podcast/revolutions/id703889772">Revolutions</link></para>
+      <para id="para-00027"><link url="https://historyofthetwentiethcentury.com/">The History of the Twentieth Century</link></para>
+      <para id="para-00028"><link url="https://www.coldwarvault.com/">The Cold War Vault</link></para>
+      <para id="para-00029"><link url="https://thehistoryofchina.wordpress.com/">The History of China</link></para>
+      <para id="para-00030"><link url="https://podcasts.apple.com/us/podcast/the-china-history-podcast/id489369498">The China History Podcast</link></para>
+      <para id="para-00031"><link url="https://podcasts.apple.com/us/podcast/history-of-japan/id635736811">The History of Japan</link></para>
+      <para id="para-00032"><link url="https://www.stitcher.com/search/%22new%20books%20in%22">New Books Network</link></para>
       </section>
+
+      <section id="sect-00009">
+        <title>3D Tours</title>
+        <para id="para-00033"><link url="https://www.youtube.com/watch?v=NZ2NWXp-1Y4">Virtual Rome: What Did Ancient Rome Look Like?</link></para>
+        <para id="para-00034"><link url="https://www.youtube.com/watch?v=ulAxMLJ7O7M">Virtual Tour in Ancient Athens (5<sup>th</sup> century BC) – 3D Reconstruction</link></para>
+      </section>
+      
       <section id="sect-00010">
-      <title>Resources for Articles</title>
-      <para id="para-00035"><link url="https://www.historyextra.com/">BBC’s History Extra</link></para>
+        <title>Virtual Museum Content</title>
+        <para id="para-00035"><link url="https://artsandculture.withgoogle.com/naturalhistorymuseum/">Natural History Museum</link></para>
+        <para id="para-00036"><link url="https://britishmuseum.withgoogle.com/">The British Museum</link></para>
       </section>
-      </content>
+    </content>
 </document>
