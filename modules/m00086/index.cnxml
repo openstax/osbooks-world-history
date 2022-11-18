@@ -5,7 +5,7 @@
     <md:content-id>m00086</md:content-id>
     <md:uuid>37bd6be9-9398-4c3d-8b00-55710f16e46b</md:uuid>
   </metadata>
-  <content>
+  <content class="preface">
     <section id="sect-00001">
       <title>About OpenStax</title>
       <para id="para-00001">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to transform learning so that education works for every student. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
