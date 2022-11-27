@@ -1,13 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
-  <title>Maps and Timelines in the Book</title>
+  <title>Maps and Timelines in the Book <emphasis effect="italics">World History</emphasis>, Volume 2, from 1400: Maps and Timelines</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Maps and Timelines in the Book</md:title>
     <md:content-id>m00073</md:content-id>
     <md:uuid>b97f0ecc-87c9-48f9-81ae-fa4df24a8a4c</md:uuid>
   </metadata>
   <content class="appendix">
-    <section id="sect-00001">
-    <title>Maps in Volume 2, from 1400</title>
     <section id="sect-00002">
     <title>Chapter B01: Understanding the Past</title>
     <list id="list-00001">
@@ -24,7 +22,7 @@
     <item><link target-id="fig-00009" document="m00008">The “India Run”</link></item>
     <item><link target-id="fig-00001" document="m00009">The Malacca Sultanate</link></item>
     <item><link target-id="fig-00003" document="m00009">The Banda Islands</link></item>
-    <item><link target-id="fig-00001" document="m00010">PLACEHOLDER</link></item>
+    <item><link target-id="fig-00001" document="m00010">East Asian Societies</link></item>
     </list>
     </section>
     <section id="sect-00004">
@@ -105,7 +103,7 @@
     <item><link target-id="fig-00010" document="m00068">The Taiping Rebellion.</link></item>
     <item><link target-id="fig-00001" document="m00070">Colonial Africa</link></item>
     <item><link target-id="fig-00004" document="m00070">Italy’s Claims in Africa</link></item>
-    <item><link target-id="fig-00005" document="m00070">Figure Title</link></item>
+    <item><link target-id="fig-00005" document="m00070">Cecil Rhodes</link></item>
     <item><link target-id="fig-00006" document="m00070">The Fashoda Incident</link></item>
     <item><link target-id="fig-00007" document="m00070">The Great Game</link></item>
     <item><link target-id="fig-00008" document="m00070">Japan’s Empire</link></item>
@@ -119,7 +117,7 @@
     <item><link target-id="fig-00002" document="m00028">German Colonies in 1914</link></item>
     <item><link target-id="fig-00001" document="m00029">The Ottoman Empire, 1300–1920</link></item>
     <item><link target-id="fig-00002" document="m00029">Ethnic Groups in Austria-Hungary</link></item>
-    <item><link target-id="fig-00003" document="m00029">The Balkans, Pre-War</link></item>
+    <item><link target-id="fig-00003" document="m00029">The Balkans before the War</link></item>
     <item><link target-id="fig-00005" document="m00029">Allegiances in World War I</link></item>
     <item><link target-id="fig-00003" document="m00030">The Ill-Fated Gallipoli Campaign</link></item>
     <item><link target-id="fig-00004" document="m00030">Sykes-Picot Agreement</link></item>
@@ -163,14 +161,14 @@
     <section id="sect-00015">
     <title>Chapter B15: The Contemporary World and Ongoing Challenges</title>
     <list id="list-00014">
+      <item><link target-id="fig-00001" document="m00080">The European Union</link></item>
       <item><link target-id="fig-00002" document="m00080">North American Free Trade Agreement</link></item>
       <item><link target-id="fig-00003" document="m00080">Association of Southeast Asian Nations</link></item>
       <item><link target-id="fig-00005" document="m00082">The Egyptian Revolution</link></item>
       <item><link target-id="fig-00006" document="m00083">El Salvador’s Civil War</link></item>
       <item><link target-id="fig-00011" document="m00083">The Global North and the Global South</link></item>
     </list>
-    </section>
-    </section>
+        </section>
     <section id="sect-00016">
     <title>Timelines in Volume 2, from 1400</title>
     <list id="list-00015">
