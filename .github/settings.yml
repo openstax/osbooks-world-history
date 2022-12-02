@@ -11,10 +11,6 @@ repository:
   allow_auto_merge: true
   delete_branch_on_merge: true
   
-collaborators:
-  - username: ww-openstax
-    permission: push
-
 teams:
   - name: ce-admins
     permission: push
@@ -22,5 +18,6 @@ teams:
     permission: triage
   - name: content-managers
     permission: push
+    permission: pull
   - name: katalyst
     permission: pull
