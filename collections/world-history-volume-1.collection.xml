@@ -5,7 +5,6 @@
     <md:language>en</md:language>
     <md:uuid>685e3163-1032-4529-bb3a-f97a54407214</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
-    <md:content-id></md:content-id>
   </col:metadata>
   <col:content>
     <col:subcollection>
@@ -24,6 +23,7 @@
           <md:title>Early Humans</md:title>
           <col:content>
             <col:module document="m00087"/>
+            <col:module document="m00088"/>
           </col:content>
         </col:subcollection>
       </col:content>
