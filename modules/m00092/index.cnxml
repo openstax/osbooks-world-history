@@ -6,6 +6,96 @@
     <md:uuid>c8f7c2a9-9b83-482c-84cf-16eea8918323</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">text</para>
-  </content>
-</document>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Describe the political, geographic, and economic circumstances within the Middle East during the rise of <term class="no-emphasis" id="term-00001">Islam</term></item>
+      <item>Discuss the origins of Islam and the career of the prophet <term class="no-emphasis" id="term-00002">Muhammad</term></item>
+      <item>Explain the uniqueness of the community Muhammad built</item>
+      </list>
+      <para id="para-00002">The story of Abraham, called Ibrahim, within Islam is an important one. Not only was he a monotheist at a time when his people had embraced polytheism and begun to worship various idols, but according to Islamic tradition, he was the first person to settle in what later became the city of <term class="no-emphasis" id="term-00003">Mecca</term>. <term class="no-emphasis" id="term-00004">Abraham</term> arrived there with his servant and concubine Hagar and their son Ishmael. There he constructed the <term class="no-emphasis" id="term-00005">Kaaba</term>, considered by Muslims to be the house of God and the most sacred site in Islam.</para>
+      <para id="para-00003">Muslims believe that as generations passed, however, the descendants of Ishmael, the <term class="no-emphasis" id="term-00006">Arabs</term>, forgot their monotheism and began to worship idols, entering a period of ignorance known as the <emphasis effect="italics">jahiliyyah</emphasis>. There they remained until God sent a new prophet, Muhammad, to correct their religious practices and deliver them from ignorance and disbelief. This lapse and deliverance, according to the faithful, is the story of Islam.</para>
+      </section>
+      <section class="section-summary" id="sect-00006">
+        <title>Section Summary</title>
+        <para id="para-00055">While the Arabs of northern Arabia were uniting as a capable fighting force looking for opportunities to expand, the Byzantines and Sasanian Empires were at a low ebb. In the early seventh century, the Byzantine Empire had won a long and costly war against the Sasanians, sometimes fought on both sides by proxies from northern Arabia, but now the combatants were exhausted and financially drained. Meanwhile, Muhammad’s historic unification of the majority of Arab tribes under the single leader of a monotheistic faith was only the beginning of the story of Islam. After Muhammad and his followers were forced to flee Mecca for Medina in 622, fighting between the two communities continued for several years before those in Mecca converted to Islam, and Muhammad made a triumphant return to the city. The stage was now set for a significant shift in the balance of power in the region.</para>
+        </section>
+        <section class="review-questions" id="sect-00007">
+        <title>Review Questions</title>
+        <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00056"><link class="os-embed" url="#exercise/A11-01-WH-RQ01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00057"><link class="os-embed" url="#exercise/A11-01-WH-RQ02"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00058"><link class="os-embed" url="#exercise/A11-01-WH-RQ03"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00059"><link class="os-embed" url="#exercise/A11-01-WH-RQ04"/></para>
+        </problem>
+        </exercise>
+        </section>
+        <section class="check-understanding" id="sect-00008">
+        <title>Check Your Understanding Questions</title>
+        <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00060"><link class="os-embed" url="#exercise/A11-01-WH-CU01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00061"><link class="os-embed" url="#exercise/A11-01-WH-CU02"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00062"><link class="os-embed" url="#exercise/A11-01-WH-CU03"/></para>
+        </problem>
+        </exercise>
+        </section>
+        <section class="reflection-questions" id="sect-00009">
+        <title>Application and Reflection Questions</title>
+        <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00063"><link class="os-embed" url="#exercise/A11-01-WH-AR01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00064"><link class="os-embed" url="#exercise/A11-01-WH-AR01"/></para>
+        </problem>
+        </exercise>
+        </section>
+        </content>
+        <glossary>
+        <definition id="def-00001">
+        <term>Abrahamic faiths</term>
+        <meaning>the religions of Judaism, Christianity, and Islam, which all trace their origins through a common ancestor, the prophet Abraham</meaning>
+        </definition>
+        <definition id="def-00002">
+        <term>hajj</term>
+        <meaning>the Islamic pilgrimage to Mecca</meaning>
+        </definition>
+        <definition id="def-00003">
+        <term><emphasis effect="italics">hijra</emphasis></term>
+        <meaning>an Arabic term meaning “emigration” that describes a defining moment for early Muslims as they fled Mecca for Medina in 622 CE</meaning>
+        </definition>
+       <definition id="def-00004">
+        <term>Quran</term>
+        <meaning>the holy scripture of Islam, which Muslims believe was given to humanity by God through Muhammad</meaning>
+        </definition>
+       <definition id="def-00005">
+        <term><emphasis effect="italics">ummah</emphasis></term>
+        <meaning>the community of Muslims</meaning>
+        </definition>
+        </glossary>
+  </document>
