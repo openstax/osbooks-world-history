@@ -29,6 +29,12 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Africa in Ancient Times</md:title>
+          <col:content>
+            <col:module document="m00084"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Rise of Islam and the Caliphates</md:title>
           <col:content>
             <col:module document="m00091"/>
