@@ -6,7 +6,7 @@
     <md:uuid>24b90426-3a78-420d-a5c2-e6e42bd07d14</md:uuid>
   </metadata>
   <content>
-    <section class="learning-objectives" id="sect-00001">
+   <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
