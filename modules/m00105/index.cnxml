@@ -103,7 +103,7 @@
     <title>The Code of Hammurabi.</title>
     <media alt="A picture of a tall rounded piece of black wood is shown on a pedestal behind a brown rope. A glass cabinet with a rounded carving shows in the background on the right and a large doorway leading to an open area is seen on the left. The wood is black and shiny, with some drab areas along the bottom. Some cracks are visible throughout. At the top, the front part is carved out showing a person in long robes and a head covering on the left standing handing something to the person siting in a chair on the right. The person in the chair has long ruffled robes on and a tall, pointed, ruffled hat. Lined items project out of his shoulders.">
     <image mime-type="image/jpg" src="../../media/OSX_WorldHist_A03_02_LawCode.png"/></media>
-    <caption>This stele found in Susa (modern Iran) is the most complete example of Hammurabi’s code. An engraving of Hammurabi standing before the sun-god Shamash tops the column, with a statement that the code is to “bring about the rule of righteousness in the land, to destroy the wicked and the evil-doers; so that the strong should not harm the weak; </caption>[and]<caption> to further the well-being of mankind.” (credit: “Stele of Hammurabi” by “Rlunaro”/Wikimedia Commons, Public Domain)</caption>
+    <caption>This stele found in Susa (modern Iran) is the most complete example of Hammurabi’s code. An engraving of Hammurabi standing before the sun-god Shamash tops the column, with a statement that the code is to “bring about the rule of righteousness in the land, to destroy the wicked and the evil-doers; so that the strong should not harm the weak; [and] to further the well-being of mankind.” (credit: “Stele of Hammurabi” by “Rlunaro”/Wikimedia Commons, Public Domain)</caption>
     </figure>
     <para id="para-00029">The Code of Hammurabi promoted the principle that punishment should fit the crime, but penalties often depended on social class:</para>
     <quote id="quote-00001">
@@ -222,7 +222,7 @@
     </exercise>
     </section>
     </content>
-    <glossary/>
+    <glossary>
     <definition id="def-00001">
     <term>Bronze Age</term>
     <meaning>the period from 3500 to 1110 BCE when bronze, an alloy of copper and tin, was the preferred material for manufacturing tools and weapons</meaning>
@@ -255,5 +255,5 @@
     <term>ziggurat</term>
     <meaning>an immense stepped tower with a flat top built of mud-brick that served as a temple in Sumerian cities</meaning>
     </definition>
-    
+  </glossary>
 </document>
