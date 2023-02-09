@@ -39,6 +39,16 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>The Near East</md:title>
+          <col:content>
+            <col:module document="m00108"/>
+            <col:module document="m00109"/>
+            <col:module document="m00110"/>
+            <col:module document="m00111"/>
+            <col:module document="m00112"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Africa in Ancient Times</md:title>
           <col:content>
             <col:module document="m00084"/>
