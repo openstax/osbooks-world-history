@@ -113,31 +113,31 @@
     <title>The Neolithic Revolution in the Americas</title>
     <para id="para-00033">As noted earlier, <term class="no-emphasis" id="term-00022">Beringia</term> was submerged under the Bering Strait about eleven thousand years ago, effectively cutting off the Western Hemisphere from the rest of the world. For this reason, technological and cultural developments in Asia, Africa, and Europe were not disseminated to the Americas for many thousands of years. Nor did similar developments in the Americas reach the Eastern Hemisphere. This meant the shift to agriculture in North and South America occurred entirely independently, in three distinct regions that developed agricultural traditions of their own. These were the Andean region, Mesoamerica, and the upper reaches of the Mississippi River valley in the Eastern Woodlands.</para>
     <para id="para-00034">The earliest evidence for the shift to agriculture, or the <term class="no-emphasis" id="term-00023">Neolithic Revolution</term>, in the Americas has been found in the <term class="no-emphasis" id="term-00024">Andean region</term> (<link target-id="table-00001"/>). There, the domestication of plants and animals developed piecemeal and gradually, and its precise origins are not entirely clear. In some parts of the region, the domestication of camelids such as llamas, guanacos, and alpacas for meat and later wool may have begun as early as 7400 BCE. Similarly, the domestication of the guinea pig for food may have begun as early as 6200 BCE, or as recently as 4400 BCE depending on the evidence used. As for edible plants, some discoveries place the earliest cultivation of squash and bottle gourds at around 8000 BCE. The dates scientists have discovered for domesticated plants like the potato are also remarkably early. Genetic testing of the potato indicates that this rugged tuber may have been domesticated from a wild variant between 8000 and 6000 BCE. Another Andean cultivated plant, quinoa, may have been grown as animal feed about 5000 BCE and later eaten by humans.</para>
-    <table summary="" id="table-00001">
+    <table summary="" id="table-00001" frame="none">
     <title>The Neolithic Revolution in the Andean Region.</title>
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <tbody>
-    <row valign="top">
-    <entry valign="top" align="left">8000 BCE</entry>
-    <entry valign="top" align="left">Domestication of squash and bottle gourds</entry>
+    <row>
+    <entry>8000 BCE</entry>
+    <entry>Domestication of squash and bottle gourds</entry>
     </row>
-    <row valign="top">
-    <entry valign="top" align="left">8000–6000 BCE</entry>
-    <entry valign="top" align="left">Domestication of the potato</entry>
+    <row>
+    <entry>8000–6000 BCE</entry>
+    <entry>Domestication of the potato</entry>
     </row>
-    <row valign="top">
-    <entry valign="top" align="left">7400 BCE</entry>
-    <entry valign="top" align="left">Domestication of camelids (llamas, guanacos, alpacas)</entry>
+    <row>
+    <entry>7400 BCE</entry>
+    <entry>Domestication of camelids (llamas, guanacos, alpacas)</entry>
     </row>
-    <row valign="top">
-    <entry valign="top" align="left">6200–4400 BCE</entry>
-    <entry valign="top" align="left">Domestication of the guinea pig</entry>
+    <row>
+    <entry>6200–4400 BCE</entry>
+    <entry>Domestication of the guinea pig</entry>
     </row>
-    <row valign="top">
-    <entry valign="top" align="left">5000 BCE</entry>
-    <entry valign="top" align="left">Domestication of quinoa</entry>
+    <row>
+    <entry>5000 BCE</entry>
+    <entry>Domestication of quinoa</entry>
     </row>
     </tbody>
     </tgroup>
