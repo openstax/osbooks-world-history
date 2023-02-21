@@ -8,12 +8,6 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>The Ottomans, the Mamluks, and the Ming</md:title>
-      <col:content>
-        <col:module document="m00122"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
       <md:title>Unit A</md:title>
       <col:content>
         <col:subcollection>
@@ -100,6 +94,15 @@
             <col:module document="m00119"/>
             <col:module document="m00120"/>
             <col:module document="m00121"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Ottomans, the Mamluks, and the Ming</md:title>
+          <col:content>
+            <col:module document="m00122"/>
+            <col:module document="m00123"/>
+            <col:module document="m00124"/>
+            <col:module document="m00125"/>
           </col:content>
         </col:subcollection>
       </col:content>
