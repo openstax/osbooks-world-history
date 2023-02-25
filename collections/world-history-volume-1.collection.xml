@@ -59,6 +59,12 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Mediterranean Peoples</md:title>
+          <col:content>
+            <col:module document="m00131"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Americas in Ancient Times</md:title>
           <col:content>
             <col:module document="m00113"/>
