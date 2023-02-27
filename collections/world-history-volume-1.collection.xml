@@ -70,6 +70,17 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Experiencing the Roman Empire</md:title>
+          <col:content>
+            <col:module document="m00137"/>
+            <col:module document="m00138"/>
+            <col:module document="m00139"/>
+            <col:module document="m00140"/>
+            <col:module document="m00141"/>
+            <col:module document="m00142"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Americas in Ancient Times</md:title>
           <col:content>
             <col:module document="m00113"/>
