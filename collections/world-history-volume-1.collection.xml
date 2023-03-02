@@ -119,6 +119,15 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>India, the Indian Ocean Basin, and East Asia</md:title>
+          <col:content>
+            <col:module document="m00152"/>
+            <col:module document="m00153"/>
+            <col:module document="m00154"/>
+            <col:module document="m00155"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Post-Roman West and the Crusading Movement</md:title>
           <col:content>
             <col:module document="m00117"/>
