@@ -1,10 +1,25 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00152</md:content-id>
     <md:uuid>3c2877db-d9f5-40fe-90c9-4a80beeae5c6</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure id="fig-00001" class="splash">
+    <title>A Caravansary.</title>
+    <media alt="In the background of this picture, a light brown brick building is seen with ten pointed arched openings, one taller than the others on the right. Tall trees with long trunks are in front of the building. A tan, pebbled walkway is seen on the right surrounding a square pool of water with a small sprayer in the middle. To the left, green grass is bordered by yellow flowers with small lanterns at the corners. A bench is seen on the path and a sign with Iranian writing attached to a tree is located in the left forefront.">
+    <image mime-type="image/jpg" src="../../media/OSX_WorldHist_A12_00_Caravanser.jpg"/>
+    </media>
+    <caption>Along the Silk Roads, caravansaries were vital outposts where merchants traveling between Turkey and China could stay and meet other traders to exchange goods, commodities, and ideas. The Shah Abbasi caravansary shown here is now a national heritage site in Nishapur, in modern Iran. (credit: modification of work “Abbasi caravanserai of Nishapur” by Sonia Sevilla/Wikimedia Commons, CC0 1.0)</caption>
+    </figure>
+    <para id="para-00001">The early Middle Ages was a time of increased connections across continents. This period was marked by the continued development of the maritime networks centered on the <term class="no-emphasis" id="term-00001">Indian Ocean</term>, and of the <term class="no-emphasis" id="term-00002">Silk Roads</term>—a series of trade routes linking China and parts of central Asia, India, and the Middle East. A globally connected medieval world was emerging, one united by long-distance trade networks and enhanced by the exchange of ideas. An important element of this system was the <term id="term-00003">caravansary</term>, an inn funded by the state or wealthy individuals where travelers could spend the night and store their goods securely (<link target-id="fig-00001"/>). In addition to providing shelter, caravansaries were a place for merchants to meet other traders to exchange goods as well as share and spread Islamic ideas and traditions.</para>
+    <figure id="fig-00002">
+    <title>Timeline: India, the Indian Ocean Basin, and East Asia.</title>
+    <media alt="A timeline with events from the chapter is shown. 320 CE: Gupta period begins. 320-360 CE: Ezna rules Aksum. 604 CE: First Japanese constitution written. 609 CE: Grand Canal completed under Yang Di. 612 CE: Sui invasion of Korea fails. 618 CE: Li Yuan founds Tang dynasty. 751 CE: Battle of the Talas River. 868 CE: Diamond sutra created; a gray and black page is shown with Asian script on the left and an image of a figure sitting at an altar surrounded by people and designs on the right. 1000 CE: The Tale of Genji written; a richly colorful image of people in decorated long robes worshipping at an altar filled with gold objects is shown. 1274 CE: First Mongol invasion of Japan fails; an image of five soldiers on the left shooting arrows and a rider on a black horse on the right is shown. 1330 CE: Delhi Sultanate reaches greatest extent.">
+    <image mime-type="image/jpg" src="../../media/OSX_WorldHist_A12_00_Timeline.jpg"/>
+    </media>
+    <caption>(credit “868 BCE”: modification of work “Jingangjing” by British Library/Wikimedia Commons, Public Domain; credit “1000 CE”: modification of work “Scenes from the three chapters of The tale of Genji [Genji monogatari]” by Art Gallery of South Australia/Wikimedia Commons, Public Domain; credit “1274 CE”: modification of work “Mōko Shūrai Ekotoba 2” by Unknown/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    </content>
 </document>
