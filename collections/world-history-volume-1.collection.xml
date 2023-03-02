@@ -129,6 +129,16 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>Pax Mongolica: The Steppe Empire of the Mongols</md:title>
+          <col:content>
+            <col:module document="m00143"/>
+            <col:module document="m00144"/>
+            <col:module document="m00145"/>
+            <col:module document="m00146"/>
+            <col:module document="m00147"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Ottomans, the Mamluks, and the Ming</md:title>
           <col:content>
             <col:module document="m00122"/>
