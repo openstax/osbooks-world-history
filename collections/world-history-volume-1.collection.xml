@@ -139,6 +139,15 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
+          <md:title>States and Societies in Sub-Saharan Africa</md:title>
+          <col:content>
+            <col:module document="m00148"/>
+            <col:module document="m00149"/>
+            <col:module document="m00150"/>
+            <col:module document="m00151"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Ottomans, the Mamluks, and the Ming</md:title>
           <col:content>
             <col:module document="m00122"/>
