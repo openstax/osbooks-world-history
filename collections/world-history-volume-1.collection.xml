@@ -1,5 +1,6 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
+    <md:content-id>col00000</md:content-id>
     <md:title>World History Volume 1</md:title>
     <md:slug>world-history-volume-1</md:slug>
     <md:language>en</md:language>
@@ -56,47 +57,6 @@
             <col:module document="m00128"/>
             <col:module document="m00129"/>
             <col:module document="m00130"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>Mediterranean Peoples</md:title>
-          <col:content>
-            <col:module document="m00131"/>
-            <col:module document="m00132"/>
-            <col:module document="m00133"/>
-            <col:module document="m00134"/>
-            <col:module document="m00135"/>
-            <col:module document="m00136"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>Experiencing the Roman Empire</md:title>
-          <col:content>
-            <col:module document="m00137"/>
-            <col:module document="m00138"/>
-            <col:module document="m00139"/>
-            <col:module document="m00140"/>
-            <col:module document="m00141"/>
-            <col:module document="m00142"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>The Americas in Ancient Times</md:title>
-          <col:content>
-            <col:module document="m00113"/>
-            <col:module document="m00114"/>
-            <col:module document="m00115"/>
-            <col:module document="m00116"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>Africa in Ancient Times</md:title>
-          <col:content>
-            <col:module document="m00084"/>
-            <col:module document="m00085"/>
-            <col:module document="m00095"/>
-            <col:module document="m00096"/>
-            <col:module document="m00097"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
@@ -173,6 +133,52 @@
             <col:module document="m00123"/>
             <col:module document="m00124"/>
             <col:module document="m00125"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>States and Empires, 1000 BCE–500 CE</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Mediterranean Peoples</md:title>
+          <col:content>
+            <col:module document="m00131"/>
+            <col:module document="m00132"/>
+            <col:module document="m00133"/>
+            <col:module document="m00134"/>
+            <col:module document="m00135"/>
+            <col:module document="m00136"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Experiencing the Roman Empire</md:title>
+          <col:content>
+            <col:module document="m00137"/>
+            <col:module document="m00138"/>
+            <col:module document="m00139"/>
+            <col:module document="m00140"/>
+            <col:module document="m00141"/>
+            <col:module document="m00142"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Americas in Ancient Times</md:title>
+          <col:content>
+            <col:module document="m00113"/>
+            <col:module document="m00114"/>
+            <col:module document="m00115"/>
+            <col:module document="m00116"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Africa in Ancient Times</md:title>
+          <col:content>
+            <col:module document="m00084"/>
+            <col:module document="m00085"/>
+            <col:module document="m00095"/>
+            <col:module document="m00096"/>
+            <col:module document="m00097"/>
           </col:content>
         </col:subcollection>
       </col:content>
