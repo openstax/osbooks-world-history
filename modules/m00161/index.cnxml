@@ -12,5 +12,235 @@
     <item>Placeholder...</item>
     </list>
     </section>
+    <section id="sect-00001">
+      <title>Chapter 2: Early Humans</title>
+      <list id="list-00002">
+      <item>[link: Figure A02_00_M-LocatorMap]Locator Map: Exchange in East Asia and the Indian Ocean[/link]</item>
+      <item><link target-id="fig-00004" document="m00088">Migration of the Earliest Humans</link></item>
+      <item><link target-id="fig-00001" document="m00089">The Most Recent Glaciation Period</link></item>
+      <item><link target-id="fig-00005" document="m00090">Sites of Natufian Settlements</link></item>
+      </list>
+      </section>
+      <section id="sect-00003">
+      <title>Chapter 3: Early Civilizations and Urban Societies</title>
+      <list id="list-00003">
+      <item><link target-id="fig-00003" document="m00103">Locator Map: Early Civilizations and Urban Societies</link></item>
+      <item><link target-id="fig-00001" document="m00105">Early Sumer</link></item>
+      <item><link target-id="fig-00006" document="m00105">The World’s First Empire</link></item>
+      <item><link target-id="fig-00001" document="m00106">The Upper and Lower Kingdoms of Egypt</link></item>
+      <item><link target-id="fig-00001" document="m00107">The Indus Valley Culture</link></item>
+      <item><link target-id="fig-00003" document="m00107">Indus Valley Trade Routes</link></item>
+      </list>
+      </section>
+      <section id="sect-00004">
+      <title>Chapter 4: The Near East</title>
+      <list id="list-00004">
+      <item><link target-id="fig-00003" document="m00108">Locator Map: The Near East</link></item>
+      <item><link target-id="fig-00002" document="m00109">Hammurabi’s Realm</link></item>
+      <item><link target-id="fig-00003" document="m00109">The Hittite Empire</link></item>
+      <item><link target-id="fig-00005" document="m00109">The Neo-Assyrian Empire</link></item>
+      <item><link target-id="fig-00006" document="m00109">The Neo-Babylonian Empire</link></item>
+      <item><link target-id="fig-00001" document="m00110">Three Kingdoms in Egypt</link></item>
+      <item><link target-id="fig-00009" document="m00110">Trade Routes in the Eastern Mediterranean</link></item>
+      <item><link target-id="fig-00003" document="m00111">The Persian Empire</link></item>
+      <item><link target-id="fig-00005" document="m00112">The Divided Monarchy</link></item>
+      </list>
+      </section>
+      <section id="sect-00005">
+      <title>Chapter 5: Asia in Ancient Times</title>
+      <list id="list-00005">
+      <item><link target-id="fig-00003" document="m00126">Locator Map: Asia in Ancient Times</link></item>
+      <item><link target-id="fig-00001" document="m00127">Topography of Ancient China</link></item>
+      <item><link target-id="fig-00001" document="m00128">The Eurasian Steppe</link></item>
+      <item><link target-id="fig-00002" document="m00128">Northern Wei Dynasty</link></item>
+      <item><link target-id="fig-00001" document="m00129">Ancient Korea</link></item>
+      <item><link target-id="fig-00005" document="m00129">The Ring of Fire</link></item>
+      <item><link target-id="fig-00007" document="m00129">Southeast Asia</link></item>
+      <item><link target-id="fig-00001" document="m00130">The Indian Subcontinent</link></item>
+      </list>
+      </section>
+      <section id="sect-00006">
+      <title>Chapter 6: Mediterranean Peoples</title>
+      <list id="list-00006">
+      <item><link target-id="fig-00003" document="m00131">Locator Map: Mediterranean Peoples</link></item>
+      <item><link target-id="fig-00001" document="m00132">The Bronze Age World</link></item>
+      <item><link target-id="fig-00003" document="m00132">The Path of the Sea Peoples</link></item>
+      <item><link target-id="fig-00004" document="m00132">Phoenician Cities and Colonies</link></item>
+      <item><link target-id="fig-00006" document="m00133">Persia and the Greeks in 499 BCE</link></item>
+      <item><link target-id="fig-00008" document="m00133">The Peloponnesian War</link></item>
+      <item><link target-id="fig-00001" document="m00134">The Conquests of Alexander the Great</link></item>
+      <item><link target-id="fig-00003" document="m00134">The Hellenistic World</link></item>
+      <item><link target-id="fig-00003" document="m00135">Rome’s Conquests in Italy</link></item>
+      <item><link target-id="fig-00004" document="m00135">Hannibal’s Invasion of Rome</link></item>
+      <item><link target-id="fig-00006" document="m00135">The Expansion of Rome</link></item>
+      <item><link target-id="fig-00008" document="m00135">Rome and King Mithridates</link></item>
+      <item><link target-id="fig-00001" document="m00136">The Roman Empire through 44 BCE</link></item>
+      </list>
+      </section>
+      <section id="sect-00007">
+      <title>Chapter 7: Experiencing the Roman Empire</title>
+      <list id="list-00007">
+      <item><link target-id="fig-00002" document="m00137">Locator Map: Experiencing the Roman Empire</link></item>
+      <item><link target-id="fig-00001" document="m00139">Spartacus’s Revolt</link></item>
+      <item><link target-id="fig-00001" document="m00140">Trade Routes of the Roman Empire</link></item>
+      </list>
+      </section>
+      <section id="sect-00008">
+      <title>Chapter 8: The Americas in Ancient Times</title>
+      <list id="list-00008">
+      <item><link target-id="fig-00003" document="m00113">The Americas in Ancient Times</link></item>
+      <item><link target-id="fig-00001" document="m00114">The Populating of the Americas</link></item>
+      <item><link target-id="fig-00003" document="m00114">A Natural Migration Path</link></item>
+      <item><link target-id="fig-00005" document="m00114">Norte Chico Sites</link></item>
+      <item><link target-id="fig-00008" document="m00114">Poverty Point</link></item>
+      <item><link target-id="fig-00005" document="m00115">The Maya World</link></item>
+      <item><link target-id="fig-00009" document="m00115">Chavín Culture and Its Influence</link></item>
+      <item><link target-id="fig-00010" document="m00115">Moche, Nazca, and Tiwanaku Cultures</link></item>
+      <item><link target-id="fig-00002" document="m00116">The Triple Alliance</link></item>
+      <item><link target-id="fig-00009" document="m00116">The Inca Empire</link></item>
+      <item><link target-id="fig-00012" document="m00116">Traditions of the American Southwest</link></item>
+      </list>
+      </section>
+      <section id="sect-00009">
+      <title>Chapter 9: Africa in Ancient Times</title>
+      <list id="list-00009">
+      <item><link target-id="fig-00003" document="m00084">Locator Map: Africa in Ancient Times</link></item>
+      <item><link target-id="fig-00001" document="m00085">A Diverse Continent</link></item>
+      <item><link target-id="fig-00005" document="m00085">The Kalahari Desert</link></item>
+      <item><link target-id="fig-00006" document="m00085">Lake Victoria</link></item>
+      <item><link target-id="fig-00001" document="m00095">Africa’s Wealth of Languages</link></item>
+      <item><link target-id="fig-00002" document="m00095">The Bantu Migrations</link></item>
+      <item><link target-id="fig-00001" document="m00096">The Kingdom of Kush</link></item>
+      <item><link target-id="fig-00001" document="m00097">Phoenician Settlements and Trade Routes</link></item>
+      <item><link target-id="fig-00003" document="m00097">Hannibal’s War (218–203 BCE)</link></item>
+      <item><link target-id="fig-00006" document="m00097">Trans-Saharan Trade</link></item>
+      </list>
+      </section>
+      <section id="sect-00010">
+      <title>Chapter 10: Empires of Faith</title>
+      <list id="list-00010">
+      <item><link target-id="fig-00003" document="m00098">Locator Map: Empires of Faith</link></item>
+      <item><link target-id="fig-00003" document="m00099">The Roman Empire Moves East</link></item>
+      <item><link target-id="fig-00007" document="m00099">Germanic Kingdoms</link></item>
+      <item><link target-id="fig-00003" document="m00100">Reconquests of Justinian</link></item>
+      <item><link target-id="fig-00004" document="m00100">Sasanian Persia</link></item>
+      <item><link target-id="fig-00001" document="m00101">The Aksum and Himyar Empires</link></item>
+      <item><link target-id="fig-00001" document="m00102">The Kushan Empire</link></item>
+      <item><link target-id="fig-00004" document="m00102">Territories of Arab Tribes</link></item>
+      </list>
+      </section>
+      <section id="sect-00011">
+      <title>Chapter 11: The Rise of Islam and the Caliphates</title>
+      <list id="list-00011">
+      <item><link target-id="fig-00003" document="m00091">Locator Map: The Rise of Islam and the Caliphates</link></item>
+      <item><link target-id="fig-00001" document="m00092">The Byzantine and Sasanian Empires</link></item>
+      <item><link target-id="fig-00003" document="m00092">Himyar and Aksum</link></item>
+      <item><link target-id="fig-00006" document="m00092">Byzantines versus Sasanians</link></item>
+      <item><link target-id="fig-00009" document="m00092">Mecca as a Trade Hub</link></item>
+      <item><link target-id="fig-00001" document="m00093">The Eighth-Century Islamic Caliphate</link></item>
+      <item><link target-id="fig-00001" document="m00094">Khurasan Province</link></item>
+      <item><link target-id="fig-00002" document="m00094">Baghdad Between 767 and 913 CE (150 and 300 AH) </link></item>
+      </list>
+      </section>
+      <section id="sect-00012">
+      <title>Chapter 12: India, the Indian Ocean Basin, and East Asia</title>
+      <list id="list-00012">
+      <item><link target-id="fig-00001" document="m00153">The Ghaznavid Dynasty</link></item>
+      <item><link target-id="fig-00002" document="m00153">The Delhi Sultanate</link></item>
+      <item><link target-id="fig-00006" document="m00153">The Sui Dynasty</link></item>
+      <item><link target-id="fig-00007" document="m00153">China’s Grand Canal</link></item>
+      <item><link target-id="fig-00011" document="m00153">The Tang Dynasty</link></item>
+      <item><link target-id="fig-00001" document="m00154">The Silk Roads in the First Century CE</link></item>
+      <item><link target-id="fig-00003" document="m00154">The Battle of Talas River</link></item>
+      <item><link target-id="fig-00005" document="m00154">Indian Ocean Trade Routes</link></item>
+      <item><link target-id="fig-00008" document="m00154">Srivijaya Trade Routes</link></item>
+      <item><link target-id="fig-00009" document="m00154">The Kingdom of Aksum</link></item>
+      <item><link target-id="fig-00010" document="m00154">The Swahili Coast</link></item>
+      <item><link target-id="fig-00002" document="m00155">The Three Kingdoms</link></item>
+      <item><link target-id="fig-00003" document="m00155">Japan, Korea, and China in Context</link></item>
+      </list>
+      </section>
+      <section id="sect-00013">
+      <title>Chapter 13: The Post-Roman West and the Crusading Movement</title>
+      <list id="list-00013">
+      <item><link target-id="fig-00003" document="m00117">Locator Map: The Post-Roman West and the Crusading Movement</link></item>
+      <item><link target-id="fig-00001" document="m00118">Post-Roman Western Eurasia</link></item>
+      <item><link target-id="fig-00007" document="m00118">Medieval Cordoba</link></item>
+      <item><link target-id="fig-00001" document="m00119">The Abbasid Caliphate</link></item>
+      <item><link target-id="fig-00002" document="m00119">The Fatimid Caliphate</link></item>
+      <item><link target-id="fig-00004" document="m00119">The Seljuk Empire</link></item>
+      <item><link target-id="fig-00002" document="m00121">Routes of the Early Crusades</link></item>
+      <item><link target-id="fig-00003" document="m00121">The Crusader States</link></item>
+      </list>
+      </section>
+      <section id="sect-00014">
+      <title>Chapter 14: Pax Mongolica: The Steppe Empire of the Mongols</title>
+      <list id="list-00014">
+      <item><link target-id="fig-00003" document="m00143">Locator Map: Pax Mongolica: The Steppe Empire of the Mongols</link></item>
+      <item><link target-id="fig-00002" document="m00144">The Collapse of the Tang Dynasty</link></item>
+      <item><link target-id="fig-00004" document="m00144">Mongol Tribes and the Three Steppe Kingdoms</link></item>
+      <item><link target-id="fig-00002" document="m00145">The Mongol Empire</link></item>
+      <item><link target-id="fig-00003" document="m00145">The Four Khanates of the Mongol Empire</link></item>
+      <item><link target-id="fig-00001" document="m00146">The Western Mongol Empire</link></item>
+      <item><link target-id="fig-00001" document="m00147">The Fourth Crusade</link></item>
+      <item><link target-id="fig-00004" document="m00147">Growth of the Delhi Sultanate</link></item>
+      </list>
+      </section>
+      <section id="sect-00015">
+      <title>Chapter 15: States and Societies in Sub-Saharan Africa</title>
+      <list id="list-00015">
+      <item><link target-id="fig-00001" document="m00148">Mansa Musa</link></item>
+      <item><link target-id="fig-00003" document="m00148">Locator Map: States and Societies in Sub-Saharan Africa</link></item>
+      <item><link target-id="fig-00002" document="m00149">The Natural Vegetation of Africa</link></item>
+      <item><link target-id="fig-00004" document="m00149">The Early Spread of Christianity</link></item>
+      <item><link target-id="fig-00006" document="m00149">The Spread of Islam</link></item>
+      <item><link target-id="fig-00001" document="m00150">Ghana and the Trans-Saharan Trade</link></item>
+      <item><link target-id="fig-00004" document="m00150">The Ghana and Mali Empires</link></item>
+      <item><link target-id="fig-00005" document="m00150">Mapungubwe</link></item>
+      <item><link target-id="fig-00001" document="m00151">Songhai Empire</link></item>
+      <item><link target-id="fig-00003" document="m00151">The Almoravid Empire</link></item>
+      <item><link target-id="fig-00004" document="m00151">The Almohad Empire</link></item>
+      </list>
+      </section>
+      <section id="sect-00016">
+      <title>Chapter 16: Climate Change and Plague in the Fourteenth Century</title>
+      <list id="list-00016">
+      <item><link target-id="fig-00001" document="m00157">Mongol China and Beyond</link></item>
+      <item><link target-id="fig-00003" document="m00157">The Mongol Empire</link></item>
+      <item><link target-id="fig-00006" document="m00157">The Fourteenth Century Begins</link></item>
+      <item><link target-id="fig-00002" document="m00159">Route of the Black Death</link></item>
+      <item><link target-id="fig-00001" document="m00160">The Late Fourteenth-Century Islamic World</link></item>
+      </list>
+      </section>
+      <section id="sect-00017">
+      <title>Chapter 17: The Ottomans, the Mamluks, and the Ming</title>
+      <list id="list-00017">
+      <item><link target-id="fig-00003" document="m00122">Locator Map: The Ottomans, the Mamluks, and the Ming</link></item>
+      <item><link target-id="fig-00001" document="m00123">Incursions of the Seljuk Empire against the Byzantines</link></item>
+      <item><link target-id="fig-00005" document="m00123">The Timurid Empire</link></item>
+      <item><link target-id="fig-00003" document="m00124">The Mamluk Sultanate</link></item>
+      <item><link target-id="fig-00007" document="m00124">The Forbidden City</link></item>
+      </list>
+      </section>
+      <section id="sect-00018">
+      <title>Timelines in Volume 1, to 1500</title>
+      <list id="list-00018">
+      <item><link target-id="fig-00002" document="m00087">Timeline: Early Humans</link></item>
+      <item><link target-id="fig-00002" document="m00103">Timeline: Early Civilizations and Urban Societies</link></item>
+      <item><link target-id="fig-00002" document="m00108">Timeline: The Near East</link></item>
+      <item><link target-id="fig-00002" document="m00126">Timeline: Asia in Ancient Times</link></item>
+      <item><link target-id="fig-00002" document="m00131">Timeline: Mediterranean Peoples</link></item>
+      <item><link target-id="fig-00002" document="m00113">Timeline: The Americas in Ancient Times</link></item>
+      <item><link target-id="fig-00002" document="m00084">Timeline: Africa in Ancient Times</link></item>
+      <item><link target-id="fig-00002" document="m00098">Timeline: Empires of Faith</link></item>
+      <item><link target-id="fig-00002" document="m00091">Timeline: The Rise of Islam and the Caliphates</link></item>
+      <item><link target-id="fig-00002" document="m00152">Timeline: India, the Indian Ocean Basin, and East Asia</link></item>
+      <item><link target-id="fig-00002" document="m00117">Timeline: The Post-Roman West and the Crusading Movement</link></item>
+      <item><link target-id="fig-00002" document="m00143">Timeline: Pax Mongolica: The Steppe Empire of the Mongols</link></item>
+      <item><link target-id="fig-00002" document="m00148">Timeline: States and Societies in Sub-Saharan Africa</link></item>
+      <item><link target-id="fig-00002" document="m00156">Timeline: Climate Change and Plague in the Fourteenth Century</link></item>
+      <item><link target-id="fig-00002" document="m00122">Timeline: The Ottomans, the Mamluks, and the Ming</link></item>
+      </list>
+      </section>
    </content>
 </document>
