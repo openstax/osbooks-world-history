@@ -6,6 +6,12 @@
     <md:uuid>e538a410-b50d-49dc-b067-1bd5a8c5ce9b</md:uuid>
   </metadata>
   <content class="appendix">
+    <section id="sect-00001">
+      <title>Chapter 1: Early Humans</title>
+      <list id="list-00001">
+      <item><link target-id="fig-00001" document="m00053">The Whole World</link></item>
+      </list>
+      </section>
     <section id="sect-00002">
       <title>Chapter 2: Early Humans</title>
       <list id="list-00002">
@@ -19,10 +25,11 @@
       <list id="list-00003">
       <item><link target-id="fig-00003" document="m00103">Locator Map: Early Civilizations and Urban Societies</link></item>
       <item><link target-id="fig-00001" document="m00105">Early Sumer</link></item>
+      <item><link target-id="fig-00001" document="m00104">The Fertile Crescent</link></item>
       <item><link target-id="fig-00006" document="m00105">The World’s First Empire</link></item>
       <item><link target-id="fig-00001" document="m00106">The Upper and Lower Kingdoms of Egypt</link></item>
       <item><link target-id="fig-00001" document="m00107">The Indus Valley Culture</link></item>
-      <item><link target-id="fig-00003" document="m00107">Indus Valley Trade Routes</link></item>
+      <item><link target-id="fig-00003" document="m00107">Indus Valley Trade with Mesopotamia</link></item>
       </list>
       </section>
       <section id="sect-00004">
@@ -81,7 +88,7 @@
       <section id="sect-00008">
       <title>Chapter 8: The Americas in Ancient Times</title>
       <list id="list-00008">
-      <item><link target-id="fig-00003" document="m00113">The Americas in Ancient Times</link></item>
+      <item><link target-id="fig-00003" document="m00113">Locator Map: The Americas in Ancient Times</link></item>
       <item><link target-id="fig-00001" document="m00114">The Populating of the Americas</link></item>
       <item><link target-id="fig-00003" document="m00114">A Natural Migration Path</link></item>
       <item><link target-id="fig-00005" document="m00114">Norte Chico Sites</link></item>
