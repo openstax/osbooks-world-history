@@ -1,0 +1,4 @@
+[submodule "private"]
+	url = https://github.com/openstax/interactive-privates
+	path = private
+	branch = osbooks-world-history_main
