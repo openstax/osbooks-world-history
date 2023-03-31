@@ -1,0 +1,26 @@
+{
+  "errata_id": "ab8af5ebb54d35d9f55abbdd3d81094bcb9aca3fd74f6b0de33d824b186a7d5b",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B15.4.2",
+    "context-cnxmod:1ee00ee2-3fa6-439a-86da-af3582fb46bc",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:15-4-ongoing-problems-and-solutions"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B15.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00083"
+  ]
+}
