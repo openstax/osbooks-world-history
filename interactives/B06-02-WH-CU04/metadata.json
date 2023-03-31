@@ -1,0 +1,26 @@
+{
+  "errata_id": "e4aa16ab30b91353a6699d31a5c47f40ae3fc013418450d984c0db870bc1c56d",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B06.2.3",
+    "context-cnxmod:b42ec6d6-e5b6-4474-82ab-0f2a9e60217f",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:6-2-the-rise-of-a-global-economy"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B06.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00077"
+  ]
+}
