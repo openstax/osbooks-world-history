@@ -1,0 +1,23 @@
+{
+  "errata_id": "e7935f1a49dbb9c08dce0954bccbe3a1284e4e5fce754272d70314c0224d6cb5",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B14.1.1",
+    "context-cnxmod:b02269c4-e828-4bf3-9877-fbb108cd6fba",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:14-1-the-cold-war-begins"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B14.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00034"
+  ]
+}
