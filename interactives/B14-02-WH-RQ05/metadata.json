@@ -1,0 +1,25 @@
+{
+  "errata_id": "eaee88d3e84659e65eae4e372ce1d206dabf4311976c3a2477bca414f82c3379",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B14.2.4",
+    "context-cnxmod:d75ca4a8-b214-49b5-8666-e9050f7236aa",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:14-2-the-spread-of-communism"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B14.2.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00035"
+  ]
+}
