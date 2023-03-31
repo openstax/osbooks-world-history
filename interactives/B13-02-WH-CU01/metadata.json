@@ -1,0 +1,26 @@
+{
+  "errata_id": "4ad46d6f795f82883a508f63fe1ac79ad7af853fe36e62814308171d6dd10a16",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.2.4",
+    "context-cnxmod:f2f07f8b-9a2d-4713-9d59-2ed388869f96",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-2-theaters-of-war"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.2.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
