@@ -1,0 +1,23 @@
+{
+  "errata_id": "f479b00b10b2baa05541b3a1f48c22aa1090a7a3abc714992d3348b8447062b7",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B14.4.4",
+    "context-cnxmod:40300a0e-60f8-48f7-bdf7-5ebe0d14e16a",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:14-4-global-tensions-and-decolonization"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B14.4.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00037"
+  ]
+}
