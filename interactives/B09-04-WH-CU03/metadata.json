@@ -1,0 +1,26 @@
+{
+  "errata_id": "2b54a9d7f8fbeda8f3827bfe5e11e4844052e31fff16b453af7449a489ffc33d",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.4.3",
+    "context-cnxmod:fb5c59eb-edcd-4e35-9365-06a3a31461dd",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-4-exploitation-and-resistance"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.4.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
