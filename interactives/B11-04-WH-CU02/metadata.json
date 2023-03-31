@@ -1,0 +1,26 @@
+{
+  "errata_id": "daccd66fc15cb728dd9aa33c48221e41663e4ad754eceab18426c6fd8927a080",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B11.4.1",
+    "context-cnxmod:45ada02c-8c3f-4128-8599-f6be5f96f2ca",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:11-4-war-on-the-homefront"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B11.4.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00031"
+  ]
+}
