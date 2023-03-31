@@ -1,0 +1,26 @@
+{
+  "errata_id": "a6989affae74ee484492a5166d94009178234c2910bae8ffce83c8665b7aaf11",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:3",
+    "type:practice",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B05.3.2",
+    "context-cnxmod:2ddfa04a-029d-402c-ab1d-e29727130467",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:5-3-the-mercantilist-economy"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B05.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00065"
+  ]
+}
