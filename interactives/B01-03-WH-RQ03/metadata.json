@@ -1,0 +1,25 @@
+{
+  "errata_id": "85f2bd6bcf77ed493090c04282d86480a251dda279c8ec0345f9cc5bc67d4e38",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B01.3.2",
+    "context-cnxmod:d1a0bba1-cadc-4244-9018-7adc041ec04f",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:1-3-causation-and-interpretation-in-history"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B01.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00052"
+  ]
+}
