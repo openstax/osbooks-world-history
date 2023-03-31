@@ -1,0 +1,23 @@
+{
+  "errata_id": "4cb67de72a304af455e38b8bd16d5ebc4b73d27632e8045278c0f7251b7f56d6",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.2.2",
+    "context-cnxmod:f2f07f8b-9a2d-4713-9d59-2ed388869f96",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-2-theaters-of-war"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
