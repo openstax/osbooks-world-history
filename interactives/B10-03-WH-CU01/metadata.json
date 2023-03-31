@@ -1,0 +1,26 @@
+{
+  "errata_id": "466f722223e932ab342d04c170ac906ef4f038326b527e37db2b03526345d527",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "context-cnxmod:2810785d-11a6-445a-8bad-84b732a0aa80",
+    "lo:stax-worldhist:B10.3.2",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:10-3-coerced-and-semicoerced-labor"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B10.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00004"
+  ]
+}
