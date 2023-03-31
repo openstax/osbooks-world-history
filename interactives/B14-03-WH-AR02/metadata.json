@@ -1,0 +1,23 @@
+{
+  "errata_id": "fc54e4e23855607fcdcd20ac0e24de1c5590b264541b65b127fa8ed07b83462b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B14.3.4",
+    "context-cnxmod:24efb7a8-2e8d-4e09-b314-98cf24282870",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:14-3-the-non-aligned-movement"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B14.3.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00036"
+  ]
+}
