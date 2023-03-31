@@ -1,0 +1,26 @@
+{
+  "errata_id": "9ccac205bdfb61f580beef1c6874b09cd626ffd5c603f8f9b90d01fc57523df1",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "context-cnxmod:d5c92d58-c274-4dc1-b2c7-ca1b1debfb23",
+    "lo:stax-worldhist:B08.4.2",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-4-portuguese-south-america"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B08.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00015"
+  ]
+}
