@@ -1,0 +1,23 @@
+{
+  "errata_id": "89789ff07b0c4089a156af9422c9542d3b36480d98c91e0a6898a9a12fcb797e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B05.4.4",
+    "context-cnxmod:29bfcd0a-b91c-44a4-a29c-71e7e48ba4c6",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:5-4-the-atlantic-slave-trade"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B05.4.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00066"
+  ]
+}
