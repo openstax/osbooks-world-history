@@ -1,0 +1,23 @@
+{
+  "errata_id": "912de482e7ddd35d2fcaee610dd867ee899fd05398482858c635ff05b773a84d",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B11.5.2",
+    "context-cnxmod:2d9356c2-7840-4fb2-92f7-3a980c5bc916",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:11-5-the-war-ends"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B11.5.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
