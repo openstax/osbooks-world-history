@@ -1,0 +1,26 @@
+{
+  "errata_id": "bb1f753d795c6682ae80dd4fbf216cd7af1e592c18bb5a90aa41c0889607f323",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B10.4.2",
+    "context-cnxmod:e4640a1a-89ec-442a-93f6-81fad3aaf416",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:10-4-communities-in-diaspora"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B10.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
