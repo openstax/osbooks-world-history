@@ -1,0 +1,25 @@
+{
+  "errata_id": "5bd1b4272bcecf9a7e0f52fc55946745c4e6fbd9e59dcea7cc84eb741b886571",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:3",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B11.2.1",
+    "context-cnxmod:a5f2e684-550c-4381-8b1c-7aa5098fba3a",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:11-2-the-collapse-of-the-ottomans-and-the-coming-of-war"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B11.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00029"
+  ]
+}
