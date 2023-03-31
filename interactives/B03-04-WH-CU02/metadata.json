@@ -1,0 +1,26 @@
+{
+  "errata_id": "e5553a7226cac10d6cdf99c455a4b1385912870af45cd68d511ec1aed3b3e5e0",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B03.4.2",
+    "context-cnxmod:6ec7450c-5b62-4100-99f1-7a1857a35ac3",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:3-4-the-trans-saharan-slave-trade"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B03.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00043"
+  ]
+}
