@@ -1,0 +1,25 @@
+{
+  "errata_id": "1d9f154a1f231303cc797e90d68b19aa93d3190ea69380f1b6588be5c96d0057",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B02.1.2",
+    "context-cnxmod:ba02ca31-b786-4e8c-80de-e2b9f706e186",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:2-1-india-and-international-connections"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B02.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00008"
+  ]
+}
