@@ -1,0 +1,23 @@
+{
+  "errata_id": "422fb7cd779a4308e3ceed680a102eb5303a70f26a70cae4618d4cf6bffd5c95",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B06.3.3",
+    "context-cnxmod:349a5233-bac7-47ae-82bc-29ef4b511d84",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:6-3-capitalism-and-the-first-industrial-revolution"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B06.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00078"
+  ]
+}
