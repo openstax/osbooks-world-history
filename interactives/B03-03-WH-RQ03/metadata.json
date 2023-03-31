@@ -1,0 +1,25 @@
+{
+  "errata_id": "02288a89ae983ed25364d4f918a8e2deb3ac471c99ff7ac76325f2a9755de8bf",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B03.3.3",
+    "context-cnxmod:d27c4408-61b3-40d9-b84e-2df29e262930",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:3-3-the-swahili-coast"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B03.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}
