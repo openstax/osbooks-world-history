@@ -1,0 +1,26 @@
+{
+  "errata_id": "a100b2fce2228fb474c7e6ac523da9b8f3203ace9e8100d167e4842b4144f0d8",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.2.3",
+    "context-cnxmod:81eb3ae1-9a24-4519-91b1-81cd2a2a546d",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-2-the-formation-of-the-soviet-union"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00023"
+  ]
+}
