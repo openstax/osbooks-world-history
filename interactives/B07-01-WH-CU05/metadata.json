@@ -1,0 +1,26 @@
+{
+  "errata_id": "48c44d3fa1f1ceebee9c8fb7e1856651f0dab8429ca669251ec2877c2441359c",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B07.1.2",
+    "context-cnxmod:4890c801-7837-4faf-b762-140dde78e629",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:7-1-the-enlightenment"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B07.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00017"
+  ]
+}
