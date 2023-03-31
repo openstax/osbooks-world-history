@@ -1,0 +1,28 @@
+{
+  "errata_id": "09a8bd6852e12c4e36a32e1b36b36fe9e2c700ade672cd4d364ffbcf54648f72",
+  "attachments": [
+    "media/OSX_WorldHist_B12_01_M-Eur1923.jpg"
+  ],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.3.5",
+    "context-cnxmod:3d9893e0-d6f0-435f-86d5-a90c69bb7aa5",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-3-the-great-depression"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.3.5"
+      ]
+    }
+  ],
+  "context": [
+    "m00024"
+  ]
+}
