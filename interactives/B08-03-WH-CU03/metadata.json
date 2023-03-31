@@ -1,0 +1,26 @@
+{
+  "errata_id": "a1e7dccb1f657ae5f8f2a271af17274c046f51db3082e6f1c5a5ecf12972b67d",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "context-cnxmod:703de791-6aa4-4b53-9a69-446f3d1d6a4a",
+    "lo:stax-worldhist:B08.3.2",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-3-spanish-south-america"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B08.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
