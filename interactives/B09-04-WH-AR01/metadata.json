@@ -1,0 +1,23 @@
+{
+  "errata_id": "362c5c7f8ca4194ada55ffafd9d514344c37087827fe29afab5d1f43e62e7926",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.4.2",
+    "context-cnxmod:fb5c59eb-edcd-4e35-9365-06a3a31461dd",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-4-exploitation-and-resistance"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
