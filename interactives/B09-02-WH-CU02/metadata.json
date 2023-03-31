@@ -1,0 +1,26 @@
+{
+  "errata_id": "5da9ff04c2e283691c54f2846535a545cbd832a692a459fc442b20db6ea3a5fa",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.2.3",
+    "context-cnxmod:08ab1021-f5cf-4bfc-bdd0-3cbe8220b88e",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-2-motives-and-means-of-imperialism"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00069"
+  ]
+}
