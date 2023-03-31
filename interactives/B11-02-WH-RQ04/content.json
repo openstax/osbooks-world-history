@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Why did the United States initially stay neutral in the war?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "The United States did not want to fight either France or Germany, its long-standing allies."
+    },
+    {
+      "text": "The United States had historically stayed out of European affairs."
+    },
+    {
+      "text": "The United States had agreed to follow Canada’s lead and stay out of the war."
+    },
+    {
+      "text": "The United States hoped the war would be quick and it could take over European colonies in the Caribbean when the war ended."
+    }
+  ],
+  "subContentId": "4ffd9cf3-68a2-4c67-80be-00a8fa629c1c"
+}
