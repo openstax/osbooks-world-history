@@ -1,0 +1,25 @@
+{
+  "errata_id": "b2a177c8bd3979821e018b090e49f54a8afb0b644a2e374ed3ed0f5e2de3a3e7",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.4.1",
+    "context-cnxmod:c2953960-9605-4d9e-8b1c-c7e46cecf98a",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-4-out-of-the-ashes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.4.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}
