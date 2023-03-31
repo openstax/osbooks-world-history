@@ -1,0 +1,26 @@
+{
+  "errata_id": "e5b69fc7629cd792b379fd2763bbc2b97217d7a6b565cbcd115ecaee9bcbc575",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B05.1.4",
+    "context-cnxmod:ce01114a-851e-4f0e-bf2c-27eecde934c8",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:5-1-the-protestant-reformation"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B05.1.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00063"
+  ]
+}
