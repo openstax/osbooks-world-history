@@ -1,0 +1,23 @@
+{
+  "errata_id": "83af9942dd2cc181a92d001c166fbcdd5f5e0510d3d9f5a9d9900e92d3fa3f5e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B02.2.2",
+    "context-cnxmod:609cdaa6-7290-4e31-8ec6-618d629c6564",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:2-2-the-malacca-sultanate"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B02.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00009"
+  ]
+}
