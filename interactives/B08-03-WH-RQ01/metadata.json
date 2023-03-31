@@ -1,0 +1,25 @@
+{
+  "errata_id": "7d72abab5c867ef2581442b11dc1440826f6c93b1d4826a90cb5191976b50e93",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:3",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B08.3.3",
+    "context-cnxmod:703de791-6aa4-4b53-9a69-446f3d1d6a4a",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-3-spanish-south-america"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B08.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
