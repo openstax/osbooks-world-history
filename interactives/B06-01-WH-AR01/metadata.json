@@ -1,0 +1,23 @@
+{
+  "errata_id": "b79bc6e63eb49881475feed52ddfaae0be7d3e1e93481db6638eb297e6f5952b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B06.1.2",
+    "context-cnxmod:f4c0410d-feab-4ea0-9d6d-92133433452e",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:6-1-european-colonization-in-the-americas"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B06.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00076"
+  ]
+}
