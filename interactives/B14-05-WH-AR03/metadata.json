@@ -1,0 +1,27 @@
+{
+  "errata_id": "798653c0204944019e08e0f97e5029a23372752fcd8b34ec667f1d7993d089a2",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B14.5.1",
+    "lo:stax-worldhist:B14.5.2",
+    "lo:stax-worldhist:B14.5.3",
+    "context-cnxmod:24787d0a-cb84-44a7-923a-95b5eee10327",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:14-5-a-new-world-order"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B14.5.1",
+        "B14.5.2",
+        "B14.5.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00038"
+  ]
+}
