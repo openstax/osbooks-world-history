@@ -1,0 +1,25 @@
+{
+  "errata_id": "8a7a42266d605c7458c24621af9e53acdc40bb2208c0461c166957c94848f085",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B11.3.1",
+    "lo:stax-worldhist:B11.3.2",
+    "context-cnxmod:e261a8d9-6cda-43be-996c-532f467bdfd0",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:11-3-total-war"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B11.3.1",
+        "B11.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
