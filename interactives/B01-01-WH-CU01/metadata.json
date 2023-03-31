@@ -1,0 +1,26 @@
+{
+  "errata_id": "2fa9206580f1322325d2ad00a1cfdb8f7f255bf482d644edef0c8af1f02d9755",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B01.1.1",
+    "context-cnxmod:ce80e622-4227-4d63-b296-dded349aabc8",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:1-1-developing-a-global-perspective"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B01.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00050"
+  ]
+}
