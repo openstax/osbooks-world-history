@@ -1,0 +1,26 @@
+{
+  "errata_id": "1961a674239fb369ea47e3ec0b4e3a593abff4fce58a9b6fa91999638bc1ee9c",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.5.2",
+    "context-cnxmod:994fa9e5-a4ab-4a6f-a09c-257084e86c51",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-5-resistance-civil-rights-and-democracy"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.5.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00026"
+  ]
+}
