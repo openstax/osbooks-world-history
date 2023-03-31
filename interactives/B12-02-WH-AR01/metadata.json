@@ -1,0 +1,23 @@
+{
+  "errata_id": "d2323bbb86a4d282cad78b81b7a9145dec84295e7beea27aea05104c93d40197",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.2.3",
+    "context-cnxmod:81eb3ae1-9a24-4519-91b1-81cd2a2a546d",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-2-the-formation-of-the-soviet-union"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00023"
+  ]
+}
