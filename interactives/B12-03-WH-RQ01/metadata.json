@@ -1,0 +1,26 @@
+{
+  "errata_id": "88777e8c2f5c575cfa1fed510111b18bad443c084e0d2315e5cc469ed538b652",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "type:practice",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.3.1",
+    "context-cnxmod:3d9893e0-d6f0-435f-86d5-a90c69bb7aa5",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-3-the-great-depression"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00024"
+  ]
+}
