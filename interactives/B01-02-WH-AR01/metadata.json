@@ -1,0 +1,23 @@
+{
+  "errata_id": "5e899f4be8f0fb0a674431ab55b68abf165988be9abce933206c2694a64c5521",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B01.2.3",
+    "context-cnxmod:dbd7a75b-a2b3-4926-8687-2f7f4f6d9543",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:1-2-primary-sources"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B01.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00051"
+  ]
+}
