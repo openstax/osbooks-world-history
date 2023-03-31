@@ -1,0 +1,26 @@
+{
+  "errata_id": "1ace05ce0268ca7c7ebe461a1ca10699af228cf50485893892af31d7d31f5887",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B02.3.2",
+    "context-cnxmod:2c37259d-3cc1-470e-a518-96cab8f4f305",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:2-3-exchange-in-east-asia"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B02.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00010"
+  ]
+}
