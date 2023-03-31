@@ -1,0 +1,25 @@
+{
+  "errata_id": "169a202477973c63046f530a65d391c2c4926764af8a939214b34121bb4c4403",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.1.3",
+    "lo:stax-worldhist:B13.1.4",
+    "context-cnxmod:23b0c335-4887-449c-96cc-4845610ae389",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-1-an-unstable-peace"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.1.3",
+        "B13.1.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
