@@ -1,0 +1,26 @@
+{
+  "errata_id": "2e24ed4023ea6e717ca3f1df309d97a3b818fd9adcb0a1b8f52811a805f97ddc",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.1.2",
+    "context-cnxmod:9e1d9894-0870-4884-a530-7137aa70d140",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-1-the-second-industrial-revolution"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00068"
+  ]
+}
