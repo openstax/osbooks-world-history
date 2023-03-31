@@ -1,0 +1,26 @@
+{
+  "errata_id": "1ea1a39993ed92bf284d74a183f4c4f35ef161c626eca6439bbd214a5d162cd5",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B02.2.3",
+    "context-cnxmod:609cdaa6-7290-4e31-8ec6-618d629c6564",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:2-2-the-malacca-sultanate"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B02.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00009"
+  ]
+}
