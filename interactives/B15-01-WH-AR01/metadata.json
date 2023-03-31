@@ -1,0 +1,23 @@
+{
+  "errata_id": "805e141b543d97dcbb73e9defbf1c046fc5fbd901b6af8021dc40bd90889a99e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B15.1.1",
+    "context-cnxmod:646ddece-c61c-4f43-8b9b-bcb2f48178c5",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:15-1-a-global-economy"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B15.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00080"
+  ]
+}
