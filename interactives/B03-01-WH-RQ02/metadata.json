@@ -1,0 +1,25 @@
+{
+  "errata_id": "d63fbbd518d8f3fac15da4d2c0656717b9d39426b993c4454d1c164e17c4a62a",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B03.1.2",
+    "context-cnxmod:e2e26b9f-5925-412a-8b35-adf8042a24ad",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:3-1-the-roots-of-african-trade"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B03.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
