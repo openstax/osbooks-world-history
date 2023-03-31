@@ -1,0 +1,25 @@
+{
+  "errata_id": "38094ddd050e13db5d3002f79525db73a49db5965d04877d11a763ce7f05d9d1",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B03.2.1",
+    "context-cnxmod:05a15066-205f-418b-a281-32dbed9845e3",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:3-2-the-songhai-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B03.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00041"
+  ]
+}
