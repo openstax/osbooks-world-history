@@ -1,0 +1,28 @@
+{
+  "errata_id": "47771e4f0564356d85ecf58640882daf697ed3ecc74100bf67d162380089dcc7",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B04.1.1",
+    "lo:stax-worldhist:B04.1.2",
+    "context-cnxmod:c0b39101-9677-47ba-ba4d-dbe4ecc82bdb",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:4-1-a-connected-islamic-world"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B04.1.1",
+        "B04.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00059"
+  ]
+}
