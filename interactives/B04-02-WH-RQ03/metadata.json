@@ -1,0 +1,25 @@
+{
+  "errata_id": "039e53e021eadc3d848674ecf4481c5b2c29ed94c7ad92de8bfdc946df6314fb",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:4",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B04.2.3",
+    "context-cnxmod:075a5608-3b6c-46e9-a4a9-d839e424842b",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:4-2-the-ottoman-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B04.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
