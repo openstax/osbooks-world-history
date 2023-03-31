@@ -1,0 +1,26 @@
+{
+  "errata_id": "2bcb8a5934e1e2aebf4fde42060bedd5f78d0402da051f9d32da223ded7e63cf",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "type:practice",
+    "blooms:1",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B10.5.2",
+    "context-cnxmod:1b093f7c-4b51-4eff-8e8d-eca5822ef878",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:10-5-regulation-reform-and-revolutionary-ideologies"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B10.5.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00006"
+  ]
+}
