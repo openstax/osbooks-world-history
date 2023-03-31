@@ -1,0 +1,26 @@
+{
+  "errata_id": "b12038c91cd88406ad898588963e0d4c3af2a4589c0d028457b20b81d438bd87",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "type:practice",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B07.2.1",
+    "context-cnxmod:798277ac-a049-4fd6-8350-dae42def08ad",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:7-2-the-exchange-of-ideas-in-the-public-sphere"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B07.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00018"
+  ]
+}
