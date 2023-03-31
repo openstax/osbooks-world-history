@@ -1,0 +1,26 @@
+{
+  "errata_id": "65ad48699b18a4509bd9cee21652539bb420dc27d43f4345ba928e806b11d0e1",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B15.3.2",
+    "context-cnxmod:a6efecc3-c088-4a0a-925f-00e3f40984ab",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:15-3-science-and-technology-for-todays-world"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B15.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00082"
+  ]
+}
