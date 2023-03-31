@@ -1,0 +1,26 @@
+{
+  "errata_id": "b48f1ea52eac503bcda8ca98e35cc52ef085da0e675f25cb355539516bc190a8",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "context-cnxmod:4f9fbb48-1bf5-4ebc-a311-ef50dfb1ca2d",
+    "lo:stax-worldhist:B08.2.2",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-2-spanish-north-america"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B08.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
