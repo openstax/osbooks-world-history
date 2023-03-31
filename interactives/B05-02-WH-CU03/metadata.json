@@ -1,0 +1,26 @@
+{
+  "errata_id": "3f2a5a8d8a60c189cc8f3d60d82a0b16e6bb7200a269b326bb3ea842d377a6d6",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B05.2.3",
+    "context-cnxmod:444a9177-6cce-4692-86c6-aa1c5a0e8556",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:5-2-crossing-the-atlantic"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B05.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00064"
+  ]
+}
