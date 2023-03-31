@@ -1,0 +1,25 @@
+{
+  "errata_id": "408c8c15f0cbc0d12a37290202df68089269561f260bf56763780189a8159b18",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B07.3.2",
+    "context-cnxmod:78b07116-8c09-4123-826f-85f83eed2007",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:7-3-revolutions-america-france-and-haiti"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B07.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00019"
+  ]
+}
