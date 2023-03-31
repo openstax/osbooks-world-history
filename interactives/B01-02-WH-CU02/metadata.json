@@ -1,0 +1,28 @@
+{
+  "errata_id": "24fe23d754f43ccfa71df75fb60929597b5f9843e7951683fb50398579842198",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B01.2.2",
+    "lo:stax-worldhist:B01.2.3",
+    "context-cnxmod:dbd7a75b-a2b3-4926-8687-2f7f4f6d9543",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:1-2-primary-sources"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B01.2.2",
+        "B01.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00051"
+  ]
+}
