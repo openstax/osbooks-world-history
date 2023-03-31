@@ -1,0 +1,25 @@
+{
+  "errata_id": "17088b601354b3d9d47a35d69c1e0998f752dfe3fcc3684cd2f35855f797848a",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:3",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B04.3.3",
+    "context-cnxmod:5838e8da-decf-4274-9a96-d7a7d3917454",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:4-3-the-safavid-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B04.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00061"
+  ]
+}
