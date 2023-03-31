@@ -1,0 +1,26 @@
+{
+  "errata_id": "6ee146e4cf75a32fba883a8cfcaba5daa2123efad3514045d4ba78de68d2b0a6",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.3.3",
+    "context-cnxmod:cdf28182-9109-468f-9f72-5baa5c2617cd",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-3-colonial-empires"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00070"
+  ]
+}
