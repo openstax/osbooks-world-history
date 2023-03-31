@@ -1,0 +1,26 @@
+{
+  "errata_id": "3b87e4dda43a996bb80c59fc258c6a8fac378120c52b66c1648b17de59c60473",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "type:practice",
+    "blooms:1",
+    "time:medium",
+    "book:stax-worldhist",
+    "context-cnxmod:a5d8e1df-c139-469f-8e84-b2dc19ddddfb",
+    "lo:stax-worldhist:08.1.1",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-1-revolution-for-whom"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "08.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00012"
+  ]
+}
