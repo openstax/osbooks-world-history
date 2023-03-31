@@ -1,0 +1,25 @@
+{
+  "errata_id": "fb02b0814e95cb9d0ef2f2bfd8558d6f19a07bc2d6dacc3c955e1aa4793adcde",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "context-cnxmod:34a3188f-0ed1-4c0c-bbcd-4fa2e20d31d4",
+    "lo:stax-worldhist:B10.1.1",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:10-1-inventions-innovations-and-mechanization"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B10.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00002"
+  ]
+}
