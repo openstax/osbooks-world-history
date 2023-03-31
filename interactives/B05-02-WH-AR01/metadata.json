@@ -1,0 +1,23 @@
+{
+  "errata_id": "7393bad7846310d0a1247b79b1ff567cf154ae0b9f7b5e9434c324edbacc0c6d",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B05.2.2",
+    "context-cnxmod:444a9177-6cce-4692-86c6-aa1c5a0e8556",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:5-2-crossing-the-atlantic"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B05.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00064"
+  ]
+}
