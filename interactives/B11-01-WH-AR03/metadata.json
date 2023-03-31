@@ -1,0 +1,23 @@
+{
+  "errata_id": "a5b75129ad7965ecfd44eddc452b0f8010fd2c1d02f137b26ed5ab89105d36d1",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B11.1.2",
+    "context-cnxmod:86948ee0-f9c4-4c5c-9c90-d160c06e7c27",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:11-1-alliances-expansion-and-conflict"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B11.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00028"
+  ]
+}
