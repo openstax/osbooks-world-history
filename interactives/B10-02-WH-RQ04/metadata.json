@@ -1,0 +1,25 @@
+{
+  "errata_id": "7882ccc7e59f0e27f881019fd58fd1430a386adb86810360c838352d9bb5a619",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "context-cnxmod:8518580c-7212-4e6f-a82c-775fe93f0a8e",
+    "lo:stax-worldhist:B10.2.1",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:10-2-life-in-the-industrial-city"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B10.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}
