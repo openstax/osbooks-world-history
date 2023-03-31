@@ -1,0 +1,25 @@
+{
+  "errata_id": "a424084a460e1ffe3cef5c0e2e8491d262cbf0f7cb59476199526f19729d88dc",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B15.2.1",
+    "context-cnxmod:16225047-3c20-4402-9af3-a14e6f8cb34c",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:15-2-debates-about-the-environment"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B15.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00081"
+  ]
+}
