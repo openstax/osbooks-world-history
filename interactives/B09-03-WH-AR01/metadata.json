@@ -1,0 +1,23 @@
+{
+  "errata_id": "5527d2942fb601b621d103088cbf9586ed1e3797dbe058b81527e21f956c62d3",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B09.3.1",
+    "context-cnxmod:cdf28182-9109-468f-9f72-5baa5c2617cd",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:9-3-colonial-empires"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B09.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00070"
+  ]
+}
