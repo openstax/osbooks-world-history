@@ -1,0 +1,25 @@
+{
+  "errata_id": "cf1f1a370a8e419a40bd87178d832c34312743b70b1eb1282272284d2c31bbde",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.1.3",
+    "context-cnxmod:41ca06b0-b7f9-4f33-88f7-5e9a4574ddbc",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-1-recovering-from-world-war-i"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.1.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00022"
+  ]
+}
