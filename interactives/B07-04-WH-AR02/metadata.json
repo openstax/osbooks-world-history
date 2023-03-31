@@ -1,0 +1,23 @@
+{
+  "errata_id": "5c7e1cfa6b7be5c2a9d4f65c499c666137a107612e2ee72614350976cf9d013e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B07.4.1",
+    "context-cnxmod:b355dd61-52ae-4015-877c-34bbd319a667",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:7-4-nationalism-liberalism-conservatism-and-the-political-order"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B07.4.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00020"
+  ]
+}
