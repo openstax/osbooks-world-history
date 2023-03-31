@@ -1,0 +1,26 @@
+{
+  "errata_id": "835272a0936faa9e9a06c4392db716f609524aeecaca06029c12416c2d75561c",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "type:practice",
+    "blooms:1",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B12.4.2",
+    "context-cnxmod:e9fb78a4-f1e7-4f42-8f0e-8330ca331efb",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:12-4-old-empires-and-new-colonies"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B12.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00025"
+  ]
+}
