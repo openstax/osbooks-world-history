@@ -1,0 +1,23 @@
+{
+  "errata_id": "59ab22523867825824eac08af7e7a07f7db00344fdb946580d5fecea1de0afb7",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.3.2",
+    "context-cnxmod:e92727cf-9803-4f99-8767-cb638de449d3",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-3-keeping-the-home-fires-burning"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00047"
+  ]
+}
