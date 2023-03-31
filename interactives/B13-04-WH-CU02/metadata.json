@@ -1,0 +1,26 @@
+{
+  "errata_id": "4e960e08f7a98b0f7eb6dff609df9103bbd4faa532313e33afcadcda197829c7",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B13.4.4",
+    "context-cnxmod:c2953960-9605-4d9e-8b1c-c7e46cecf98a",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:13-4-out-of-the-ashes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B13.4.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}
