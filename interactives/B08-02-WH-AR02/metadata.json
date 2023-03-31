@@ -1,0 +1,23 @@
+{
+  "errata_id": "a9f0e9523bb464dc97737c4749c9335e29175c0cb6bfe0b0eb7e40468c1baf3b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:B08.2.1",
+    "context-cnxmod:4f9fbb48-1bf5-4ebc-a311-ef50dfb1ca2d",
+    "book-slug:world-history-volume-2",
+    "module-slug:world-history-volume-2:8-2-spanish-north-america"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "B08.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
