@@ -1,0 +1,25 @@
+{
+  "errata_id": "5b05db014e08b4c4fb413611c3ef26d78f4342d4bd3e4a5b5e748f6c324f5ef8",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A11.2.2",
+    "context-cnxmod:2c6eec70-fec1-4757-9282-6e4765720a68",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:11-2-the-arab-islamic-conquests-and-the-first-islamic-states"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A11.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00093"
+  ]
+}
