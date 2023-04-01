@@ -1,0 +1,26 @@
+{
+  "errata_id": "8f9e3d0411d263376644789cecdca8cc019fcabbb5abe9093c7cdb74dcfd9da7",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A17.1.1",
+    "context-cnxmod:d48f1005-ead2-4613-8c69-0056f9d8203b",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:17-1-the-ottomans-and-the-mongols"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A17.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00123"
+  ]
+}
