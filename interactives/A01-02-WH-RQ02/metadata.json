@@ -1,0 +1,25 @@
+{
+  "errata_id": "d503920a42604c8c9796a82fd29f6efa13ec7bfcaacda44fdfefd7d8f5c3bef5",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A01.2.2",
+    "context-cnxmod:cb8a3493-8c10-4deb-842d-fd8134796890",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:1-2-primary-sources"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A01.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00055"
+  ]
+}
