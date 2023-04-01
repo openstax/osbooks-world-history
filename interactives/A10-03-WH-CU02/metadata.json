@@ -1,0 +1,28 @@
+{
+  "errata_id": "418ffb98fe1ba2428784d73636a8545c9872b0ecf518569d6f4ef39725098870",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A10.3.1",
+    "lo:stax-worldhist:A10.3.2",
+    "context-cnxmod:fe692285-ea24-42a3-9e47-93810717e49b",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:10-3-the-kingdoms-of-aksum-and-himyar"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A10.3.1",
+        "A10.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00101"
+  ]
+}
