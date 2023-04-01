@@ -1,0 +1,25 @@
+{
+  "errata_id": "f42367016742aa0a0dd2dcd7435cb0253bb6b4855bd4a4f998a63354d7dba268",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A14.1.2",
+    "context-cnxmod:446340f5-c1d9-45d6-85e2-e01b9fc4d5bc",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:14-1-song-china-and-the-steppe-peoples"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A14.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00144"
+  ]
+}
