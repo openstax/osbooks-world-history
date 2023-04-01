@@ -1,0 +1,25 @@
+{
+  "errata_id": "6469e071bfa2e40be0ac3dee443193bfa62625a4e3f21b11daf7dc8c1086d793",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A17.3.2",
+    "context-cnxmod:22402ad8-174c-4734-9745-1d556e61882b",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:17-3-gunpowder-and-nomads-in-a-transitional-age"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A17.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00125"
+  ]
+}
