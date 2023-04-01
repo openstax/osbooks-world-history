@@ -1,0 +1,25 @@
+{
+  "errata_id": "f092cac0827e98a38aa236b2c8fa51dc12d89a5f34254be691b589b51f3e88b7",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.5.1",
+    "context-cnxmod:d4bbb7a7-cb58-46b2-adc4-1a5799432a3c",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-5-the-regions-of-rome"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.5.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00142"
+  ]
+}
