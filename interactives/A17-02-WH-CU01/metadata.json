@@ -1,0 +1,26 @@
+{
+  "errata_id": "5135f98496d88e6021b1753e60765364bf4d164512c388d77dc4bfeef8bb6ef0",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A17.2.1",
+    "context-cnxmod:6f3bd664-f33e-4f43-836c-57a148c2f5cd",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:17-2-from-the-mamluks-to-ming-china"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A17.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00124"
+  ]
+}
