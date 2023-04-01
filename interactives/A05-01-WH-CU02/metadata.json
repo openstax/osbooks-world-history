@@ -1,0 +1,26 @@
+{
+  "errata_id": "b8692f3607c149457472ae68c25f0cd0336543f6e3d4cb86e8edc3a6fe1c848a",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.1.2",
+    "context-cnxmod:34fe50c4-6e2b-4fb4-ade7-73662500d81e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-1-ancient-china"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00127"
+  ]
+}
