@@ -1,0 +1,26 @@
+{
+  "errata_id": "725c2e9207c1e11f238cdcc4500ac827c62cfbd5c92d8e483ffe92a96411f7be",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A15.1.1",
+    "context-cnxmod:cc885e1b-035d-4bf0-8497-20265e90a692",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:15-1-culture-and-society-in-medieval-africa"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A15.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00149"
+  ]
+}
