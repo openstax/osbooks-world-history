@@ -1,0 +1,28 @@
+{
+  "errata_id": "85edae05d7d32aed4ef3b82e86a793c0771c66bd667c7d06d5e2129d036fd659",
+  "attachments": [
+    "media/OSX_WorldHist_A11_01_M-Kingdoms_img.jpg"
+  ],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A11.1.1",
+    "context-cnxmod:c8f7c2a9-9b83-482c-84cf-16eea8918323",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:11-1-the-rise-and-message-of-islam"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A11.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00092"
+  ]
+}

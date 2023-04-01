@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<img src=\"media/OSX_WorldHist_A11_01_M-Kingdoms_img.jpg\" alt=\"A map of southern Europe, northern Africa, and southwestern Asia is shown. The Adriatic Sea, Mediterranean Sea, the Aegean Sea, the Black Sea, the Caspian Sea, the Red Sea, the Gulf of Aden, the Persian Gulf (Arabian Gulf), the Gulf of Oman, and the Arabian Sea are labeled. The tropic of Cancer is also labeled on the lines of latitude in the northern Arabian Sea. An almost triangular area of Egypt is highlighted orange and labeled “A” along with a strip of coastal land heading northeast from Egypt and encompassing all of Turkey. Below the orange there is a squarish tract of lang along the southern Red Sea heading inland highlighted green and labeled “B.” Across the Red Sea on the southeastern and southern coastline there is a square area of land highlighted purple and labeled “C.” The city of Mecca is labeled in the northwestern portion of this purple area and the city of Medina is labeled just northwest of this highlighted area. An area from the Persian Gulf (Arabian Gulf) in the south heading up to the Caspian Sea in the north and almost to the Black Sea in the west is highlighted yellow and labeled “D.” An orange box is drawn around these highlighted areas.\">",
+  "isSolutionPublic": false
+}
