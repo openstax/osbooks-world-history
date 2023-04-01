@@ -1,0 +1,26 @@
+{
+  "errata_id": "504885251d35bb69649cbb9a1882985a5cb95af09c3870b0d555e911e8966418",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A06.5.3",
+    "context-cnxmod:b8e27101-0cca-4abb-91f0-95e6fcb0af0b",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:6-5-the-age-of-augustus"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A06.5.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00136"
+  ]
+}
