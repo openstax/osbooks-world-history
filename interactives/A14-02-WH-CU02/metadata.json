@@ -1,0 +1,28 @@
+{
+  "errata_id": "daa33a00ff05928cb1c71eccd57fe9fd5c9c14cf4ca94da243394d4794577408",
+  "attachments": [
+    "media/OSX_WorldHist_A14_02_M-Mongol60.jpg"
+  ],
+  "tags": [
+    "assignment-type:homework",
+    "type:practice",
+    "blooms:1",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A14.2.4",
+    "context-cnxmod:e1c41c96-3058-4037-b589-6897d5840044",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:14-2-chinggis-khan-and-the-early-mongol-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A14.2.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00145"
+  ]
+}
