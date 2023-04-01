@@ -1,0 +1,25 @@
+{
+  "errata_id": "e04e84a27e1ca3b03a51ba694e4666604b021b961c4667a16b1c817597ed54b3",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A10.2.3",
+    "context-cnxmod:53c004ce-7bfb-4c5d-87ae-562afdeaaac8",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:10-2-the-byzantine-empire-and-persia"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A10.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00100"
+  ]
+}
