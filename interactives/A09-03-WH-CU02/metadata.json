@@ -1,0 +1,26 @@
+{
+  "errata_id": "377d9707593332a9744ca47368fdee685181c77ca842e2dc11544a12f4058ba0",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A09.3.2",
+    "context-cnxmod:3520eafd-79aa-4184-ac70-776730e7edf8",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:9-3-the-kingdom-of-kush"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A09.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00096"
+  ]
+}
