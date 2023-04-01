@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<img src=\"media/OSX_WorldHist_A04_01_M-BlankEmp_img.jpg\" alt=\"A section of a map is shown with two bodies of water at the top of the map, at the left, and along the bottom. Land is shown in the bottom left, a rectangular peninsula in the middle, and more land in the top right.  There is sparse land in the top left. The land is yellow and the water is blue. Lines of longitude and latitude can be seen in the water. In the land toward the top left corner, there is an area circled in dark blue and labeled with “A.” A larger area overlapping the lower right side of the dark blue section and in a barbell shape is labeled “B” and circled in dark yellow. A small oval area within the right side of the dark yellow area is circled in red and labeled “C.”\">",
+  "isSolutionPublic": false
+}

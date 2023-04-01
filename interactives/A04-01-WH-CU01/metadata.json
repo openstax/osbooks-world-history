@@ -1,0 +1,28 @@
+{
+  "errata_id": "dd35b57e5f517064333858e035c6375238429931d96a374f7bd56ad922f90abf",
+  "attachments": [
+    "media/OSX_WorldHist_A04_01_M-BlankEmp_img.jpg"
+  ],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.1.1",
+    "context-cnxmod:870d7f03-0666-4eba-97f7-02f2735e28e6",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-1-from-old-babylon-to-the-medes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00109"
+  ]
+}
