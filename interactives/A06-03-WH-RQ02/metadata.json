@@ -1,0 +1,25 @@
+{
+  "errata_id": "3e02e63ee131e29bff734f654eb5beca79850c5ed15296e0f35fffb350594e97",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A06.3.2",
+    "context-cnxmod:0f0f1e8b-6db3-41e8-8588-927a30b6e451",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:6-3-the-hellenistic-era"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A06.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00134"
+  ]
+}
