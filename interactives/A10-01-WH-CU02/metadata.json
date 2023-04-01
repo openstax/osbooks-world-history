@@ -1,0 +1,26 @@
+{
+  "errata_id": "9b663257076699fad673d1027008b9136e5910f40e6ee86612d103d63c9e8c8c",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A10.1.1",
+    "context-cnxmod:d3206e81-5915-49d8-8ffa-2b9930151ec3",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:10-1-the-eastward-shift"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A10.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00099"
+  ]
+}
