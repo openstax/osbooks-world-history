@@ -1,0 +1,23 @@
+{
+  "errata_id": "df50cd9c4062f9a5926971e2112885826630e4a933973c475d35b0822fc910c9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A15.3.1",
+    "context-cnxmod:28db33a9-0996-4317-904d-3f98cfd3dc00",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:15-3-the-people-of-the-sahel"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A15.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00151"
+  ]
+}
