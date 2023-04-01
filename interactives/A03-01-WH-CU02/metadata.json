@@ -1,0 +1,26 @@
+{
+  "errata_id": "4e43455c2c7fb6efcca4ba5cc94535396fa8b91ad6d5d7f17513b1ffd7345db4",
+  "attachments": [],
+  "tags": [
+    "blooms:5",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A03.1.2",
+    "context-cnxmod:b81d86bf-420b-4bc1-b0ce-f2a748ef417a",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:3-1-early-civilizations"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A03.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00104"
+  ]
+}
