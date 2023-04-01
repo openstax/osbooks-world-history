@@ -1,0 +1,26 @@
+{
+  "errata_id": "88f43880c84e0a2c4f22950652a86d2a7cb5e260153f59df860db5cbede5a16b",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A09.4.1",
+    "context-cnxmod:24b90426-3a78-420d-a5c2-e6e42bd07d14",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:9-4-north-africas-mediterranean-and-trans-saharan-connections"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A09.4.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00097"
+  ]
+}
