@@ -1,0 +1,26 @@
+{
+  "errata_id": "02c9b1ef2d534e8206e71a2c44398b461b8f4a3b230393f8009f6d39ed218ac0",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.2.2",
+    "context-cnxmod:4d79dac4-03e0-45db-ae42-7d8377c55d71",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-2-slavery-in-the-roman-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00139"
+  ]
+}
