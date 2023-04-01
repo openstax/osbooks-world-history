@@ -1,0 +1,23 @@
+{
+  "errata_id": "626b026e0e0ce70be3288d0b4f211303ca2524a9930090cf2d427839e575b509",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A02.3.2",
+    "context-cnxmod:efb07171-31c6-4989-84ce-80a935f121e3",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:2-3-the-neolithic-revolution"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A02.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00090"
+  ]
+}
