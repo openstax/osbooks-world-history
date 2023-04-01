@@ -1,0 +1,23 @@
+{
+  "errata_id": "0d0a6901374ab1628b2c402f050411ceccf27d9f99b77e2df87ad0d27959dc7c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.1.2",
+    "context-cnxmod:34fe50c4-6e2b-4fb4-ade7-73662500d81e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-1-ancient-china"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00127"
+  ]
+}
