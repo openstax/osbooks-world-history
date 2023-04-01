@@ -1,0 +1,25 @@
+{
+  "errata_id": "3c00d323bec0753eff22be3b1743e83eec24e541688d0480546900dd97195e9e",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.4.1",
+    "context-cnxmod:03383bb5-3101-4e0d-9426-3fc19c902678",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-4-the-hebrews"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.4.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
