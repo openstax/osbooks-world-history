@@ -1,0 +1,25 @@
+{
+  "errata_id": "da9ec4e22f60a9de25fe16705536fa853d6579021c54d721e184ab98676090d1",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A09.1.2",
+    "context-cnxmod:70790779-9178-4215-9984-79e4924fb5ea",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:9-1-africas-geography-and-climate"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A09.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00085"
+  ]
+}
