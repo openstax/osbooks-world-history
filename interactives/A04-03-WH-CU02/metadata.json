@@ -1,0 +1,26 @@
+{
+  "errata_id": "22f1af88a1faffcfb04bed006b2fc21e1f19ee457f5a8ebe45ea8ac49e11db71",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.3.2",
+    "context-cnxmod:b6c26c37-67d2-4c46-8092-af6885e41396",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-3-the-persian-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00111"
+  ]
+}
