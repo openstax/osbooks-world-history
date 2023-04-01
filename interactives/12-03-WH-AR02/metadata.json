@@ -1,0 +1,23 @@
+{
+  "errata_id": "ac84928e6c4ec891ec5988dd9ab73be87362a3e43747ffe69077186dfbf2fb8a",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A12.3.3",
+    "context-cnxmod:15a72fa4-8419-468c-8c76-c6d950cfd123",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:12-3-border-states-sogdiana-korea-and-japan"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A12.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00155"
+  ]
+}
