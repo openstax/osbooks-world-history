@@ -1,0 +1,23 @@
+{
+  "errata_id": "287fe90b3d1ca7f42ea94487638bd80b1f69751b01e6608b79e35db3e444d479",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.2.2",
+    "context-cnxmod:de323ebe-8b92-433e-a014-966335805511",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-2-egypts-new-kingdom"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00110"
+  ]
+}
