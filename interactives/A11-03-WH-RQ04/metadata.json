@@ -1,0 +1,25 @@
+{
+  "errata_id": "e4b3b1d27a50a62fce5e08e00bd7f22a1a9993838303e3201f69c1bc297192a2",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A11.3.2",
+    "context-cnxmod:7f268bad-113d-4725-9b5d-41e9d8f16201",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:11-3-islamization-and-religious-rule-under-islam"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A11.3.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00094"
+  ]
+}
