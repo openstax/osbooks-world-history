@@ -1,0 +1,26 @@
+{
+  "errata_id": "9bfe22b541ac8db12a8b04a08d2419a0fbd4a245a23c5bb37e97b2f67a924c25",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.2.2",
+    "context-cnxmod:815078f2-3cfe-46f6-a389-c8da9ac9e973",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-2-the-steppes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00128"
+  ]
+}
