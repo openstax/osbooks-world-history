@@ -1,0 +1,26 @@
+{
+  "errata_id": "63eb166125ea8fb336f66c1c7643ca3f8e6f62de975ec578b96b12fb4475e783",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.3.1",
+    "context-cnxmod:284904ed-4c2f-47c2-98a9-72bf6a9b9a60",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-3-korea-japan-and-southeast-asia"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00129"
+  ]
+}
