@@ -1,0 +1,25 @@
+{
+  "errata_id": "bf2b7a3dbee2e12901ac46d0d45711d0bcc532da1b6389031347ca15c3be8c8c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A03.3.1",
+    "lo:stax-worldhist:A03.3.3",
+    "context-cnxmod:a2838ae3-4684-40dc-a1f5-4defe04b02fe",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:3-3-ancient-egypt"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A03.3.1",
+        "A03.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00106"
+  ]
+}
