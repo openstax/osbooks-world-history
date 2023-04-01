@@ -1,0 +1,27 @@
+{
+  "errata_id": "dc5ece629723a2b2edd9fad5e612f3a52c1a0e612a862161564212d483ca6882",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.1.3",
+    "lo:stax-worldhist:A07.1.2",
+    "lo:stax-worldhist:A07.1.1",
+    "context-cnxmod:e1196512-3f8d-4741-99bd-bf743bba99b1",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-1-the-daily-life-of-a-roman-family"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.1.3",
+        "A07.1.2",
+        "A07.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00138"
+  ]
+}
