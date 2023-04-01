@@ -1,0 +1,23 @@
+{
+  "errata_id": "2c362dcc5f486b7a6b87a8602b6385627ffa2f90ca70e0d3d4c941a42e85a4cf",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A13.3.1",
+    "context-cnxmod:22796de0-dda3-4321-a254-ef7a48d9d1bf",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:13-3-patriarch-and-papacy-the-church-and-the-call-to-crusade"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A13.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00120"
+  ]
+}
