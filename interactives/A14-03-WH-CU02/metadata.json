@@ -1,0 +1,26 @@
+{
+  "errata_id": "6b589c7c54d4ac1f18daea5576525a4a949bf3c129764d863dd1c2835757774f",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A14.3.1",
+    "context-cnxmod:902a7118-cc6d-46e1-ab1a-c21ddd75a0ea",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:14-3-the-mongol-empire-fragments"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A14.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00146"
+  ]
+}
