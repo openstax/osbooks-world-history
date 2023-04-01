@@ -1,0 +1,25 @@
+{
+  "errata_id": "829b914d54b63b5a75427ae29737f1925da2ee6b140292575284182aed8603ab",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A11.1.2",
+    "lo:stax-worldhist:A11.1.3",
+    "context-cnxmod:c8f7c2a9-9b83-482c-84cf-16eea8918323",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:11-1-the-rise-and-message-of-islam"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A11.1.2",
+        "A11.1.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00092"
+  ]
+}
