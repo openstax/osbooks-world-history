@@ -1,0 +1,23 @@
+{
+  "errata_id": "36637da33a225abbd1c2165e9dd65ed203433e9caaee51f76c6232c603566229",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.4.3",
+    "context-cnxmod:e60d6009-c432-4cc8-bc22-ea7f7026dc6f",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-4-vedic-india-to-the-fall-of-the-maurya-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.4.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00130"
+  ]
+}
