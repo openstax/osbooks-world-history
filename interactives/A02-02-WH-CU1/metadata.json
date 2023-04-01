@@ -1,0 +1,26 @@
+{
+  "errata_id": "0fbb3c7769f4d666690a86f64d997281bc5ab6ddcf4af29e1642bc023c3e1e50",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A02.2.3",
+    "context-cnxmod:72ac1d1b-7893-4c2b-87e5-4c6ac9c9569e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:2-2-people-in-the-paleolithic-age"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A02.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00089"
+  ]
+}
