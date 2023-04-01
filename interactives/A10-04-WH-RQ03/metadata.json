@@ -1,0 +1,25 @@
+{
+  "errata_id": "3cb168e7155be63a1850f749b60d0bb35cda83d90f662dd6694ade361af005bf",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A10.4.2",
+    "context-cnxmod:d6089c23-c3f5-4879-a62c-caed722a854d",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:10-4-the-margins-of-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A10.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
