@@ -1,0 +1,25 @@
+{
+  "errata_id": "b2e2a13dd490319467b6bec6a48f762667101b4da946da908f6698a88e732cf6",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A05.2.3",
+    "context-cnxmod:815078f2-3cfe-46f6-a389-c8da9ac9e973",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:5-2-the-steppes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A05.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00128"
+  ]
+}
