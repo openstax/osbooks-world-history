@@ -1,0 +1,23 @@
+{
+  "errata_id": "124d91922f5d7694507d1ce67b19a23aa9483373ae3e9b4abbbdfc71715065a3",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.2.3",
+    "context-cnxmod:4d79dac4-03e0-45db-ae42-7d8377c55d71",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-2-slavery-in-the-roman-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00139"
+  ]
+}
