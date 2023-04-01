@@ -1,0 +1,27 @@
+{
+  "errata_id": "81e5b819f9511010fdbddd3d6adbf8c2f58f81165bac8c60d715a6abdbb43a34",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A13.4.1",
+    "lo:stax-worldhist:A13.4.3",
+    "lo:stax-worldhist:A13.4.4",
+    "context-cnxmod:b6c1d7ab-9df3-42fe-b946-99233cc0fc2e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:13-4-the-crusading-movement"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A13.4.1",
+        "A13.4.3",
+        "A13.4.4"
+      ]
+    }
+  ],
+  "context": [
+    "m00121"
+  ]
+}
