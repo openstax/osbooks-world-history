@@ -1,0 +1,28 @@
+{
+  "errata_id": "58517ad1dc1903ee77592637cbfd6832eae79b31a082a7ddf8140854f660488d",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A16.3.2",
+    "lo:stax-worldhist:A16.3.3",
+    "context-cnxmod:c10377ec-6b63-4d24-9d46-0deef4601428",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:16-3-the-black-death-from-east-to-west"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A16.3.2",
+        "A16.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00159"
+  ]
+}
