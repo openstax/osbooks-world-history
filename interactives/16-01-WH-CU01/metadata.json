@@ -1,0 +1,26 @@
+{
+  "errata_id": "4fe03d2761ccf067c240561514f226b61dd34740aa380269fdf6bc93e3574183",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A16.1.1",
+    "context-cnxmod:fc9ff262-0d28-4c67-828b-7d6a1f4144b1",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:16-1-asia-north-africa-and-europe-in-the-early-fourteenth-century"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A16.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00157"
+  ]
+}
