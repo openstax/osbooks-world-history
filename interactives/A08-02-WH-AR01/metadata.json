@@ -1,0 +1,23 @@
+{
+  "errata_id": "1b116fd89065551ae38a6a9bfec88a67371b136aed8da02d2ef4e02f2fd696b0",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A08.2.2",
+    "context-cnxmod:9557502f-cf6f-4f55-a462-e850c3f5c20d",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:8-2-early-cultures-and-civilizations-in-the-americas"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A08.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00115"
+  ]
+}
