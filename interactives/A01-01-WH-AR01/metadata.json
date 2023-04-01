@@ -1,0 +1,23 @@
+{
+  "errata_id": "639f0a11e1ae2546e2d59bfda792f0d836c66889a55fb96065a9d98b4d32c05c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A01.1.2",
+    "context-cnxmod:65f20d1a-5bf0-4cd1-8d99-62851f9bc5ae",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:1-1-developing-a-global-perspective"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A01.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00054"
+  ]
+}
