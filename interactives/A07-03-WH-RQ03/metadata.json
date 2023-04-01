@@ -1,0 +1,25 @@
+{
+  "errata_id": "e36c924f7f475e48867567758c58b304c2bcfcd20cc2475420cefccb249f11f9",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.3.1",
+    "context-cnxmod:5b055fbb-69c9-4550-b25d-9d1f33bf01a9",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-3-the-roman-economy-trade-taxes-and-conquest"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.3.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00140"
+  ]
+}
