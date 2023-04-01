@@ -1,0 +1,23 @@
+{
+  "errata_id": "8fd49bcfd5cf9d2242ca8aa2945d1624e6002913c535885dd074f4f35e6a0886",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A08.1.1",
+    "context-cnxmod:a8a46ce6-e218-45e7-987d-d74e4c844e10",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:8-1-populating-and-settling-the-americas"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A08.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00114"
+  ]
+}
