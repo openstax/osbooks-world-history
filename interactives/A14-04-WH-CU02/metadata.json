@@ -1,0 +1,26 @@
+{
+  "errata_id": "fd27b13681827b321ea7d210a0de7bd0f7b12889f328495ca00f3bca74d96ab1",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A14.4.2",
+    "context-cnxmod:d0f145ca-8bd4-48c1-bb09-a87ad8e455a8",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:14-4-christianity-and-islam-outside-central-asia"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A14.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00147"
+  ]
+}
