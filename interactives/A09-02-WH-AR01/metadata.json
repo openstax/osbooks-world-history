@@ -1,0 +1,23 @@
+{
+  "errata_id": "39d71e8f3f0f61177468b7e21bf194e7a9a4badbc1f1bb727ba4cf7b4708dbf0",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A09.2.1",
+    "context-cnxmod:9920a856-2417-4df0-811f-eea04a0a801e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:9-2-the-emergence-of-farming-and-the-bantu-migrations"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A09.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00095"
+  ]
+}
