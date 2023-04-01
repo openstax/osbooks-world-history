@@ -1,0 +1,27 @@
+{
+  "errata_id": "5d8cf48908dbb79328c2c3d4c772dba36f5a2a8488d218d9fccc4dcd0479d9c4",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A12.1.2",
+    "lo:stax-worldhist:A12.1.1",
+    "context-cnxmod:f2b59bc9-d41e-4c7b-958a-6be112cf17e5",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:12-1-the-indian-ocean-world-in-the-early-middle-ages"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A12.1.2",
+        "A12.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00153"
+  ]
+}
