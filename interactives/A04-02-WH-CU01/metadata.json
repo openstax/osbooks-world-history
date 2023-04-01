@@ -1,0 +1,26 @@
+{
+  "errata_id": "768b8ee4d393949776aba26059b442c81e064c766e86401019b3cd21b2ac84bc",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.2.1",
+    "context-cnxmod:de323ebe-8b92-433e-a014-966335805511",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-2-egypts-new-kingdom"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00110"
+  ]
+}
