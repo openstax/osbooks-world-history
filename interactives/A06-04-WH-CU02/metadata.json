@@ -1,0 +1,26 @@
+{
+  "errata_id": "851e7b0ffe5ce3e464b7724cd2e4b04a668bdd433fcc2a52fa216ad06c95255e",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A06.4.2",
+    "context-cnxmod:7ed5964e-f586-4169-93c8-65d886b535af",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:6-4-the-roman-republic"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A06.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00135"
+  ]
+}
