@@ -1,0 +1,25 @@
+{
+  "errata_id": "54a39fd6dcf49f9cf619245eccf0815bfebedc3d9cb9285c75d9fd2e544a72a7",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.3.3",
+    "context-cnxmod:b6c26c37-67d2-4c46-8092-af6885e41396",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-3-the-persian-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00111"
+  ]
+}
