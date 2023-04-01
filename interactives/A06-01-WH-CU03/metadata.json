@@ -1,0 +1,26 @@
+{
+  "errata_id": "d021f3859d359c8fdcfa02baf7c02d2bcd63325231cef5dc46571dcef0697b51",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A06.1.3",
+    "context-cnxmod:1965046d-c583-434e-aee5-3f1b3ffc9ff5",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:6-1-early-mediterranean-peoples"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A06.1.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00132"
+  ]
+}
