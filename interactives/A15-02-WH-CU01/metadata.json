@@ -1,0 +1,26 @@
+{
+  "errata_id": "63889351c5e1a9f327d2cc049da36b94319410b50392830e3efeddb62b232751",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A15.2.2",
+    "context-cnxmod:1d7d3e16-674c-44c2-89d7-ccf7ca78386c",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:15-2-medieval-sub-saharan-africa"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A15.2.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00150"
+  ]
+}
