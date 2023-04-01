@@ -1,0 +1,26 @@
+{
+  "errata_id": "3a4ad641435ad08cf0a9ed92e308ba2d8e794ed1e266076acae436d458c3ae5f",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A16.4.2",
+    "context-cnxmod:4d66992b-935e-4602-867a-9c1de0dda108",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:16-4-the-long-term-effects-of-global-transformation"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A16.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00160"
+  ]
+}
