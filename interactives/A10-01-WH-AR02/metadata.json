@@ -1,0 +1,23 @@
+{
+  "errata_id": "0a06f0f05d6c5bb1733c788b66cd7b5e52f917e77edeab746d2e178665583d3b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A10.1.2",
+    "context-cnxmod:d3206e81-5915-49d8-8ffa-2b9930151ec3",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:10-1-the-eastward-shift"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A10.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00099"
+  ]
+}
