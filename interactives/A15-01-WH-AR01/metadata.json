@@ -1,0 +1,23 @@
+{
+  "errata_id": "a36fbaaf18da6189a0473529a615eb192c52b1548b32f542b490c7dd5dded41f",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A15.1.1",
+    "context-cnxmod:cc885e1b-035d-4bf0-8497-20265e90a692",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:15-1-culture-and-society-in-medieval-africa"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A15.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00149"
+  ]
+}
