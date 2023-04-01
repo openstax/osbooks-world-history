@@ -1,0 +1,23 @@
+{
+  "errata_id": "7f84d915cdda44e86da86fe310bb2f6ef915adb216bd5279fd25b408d35b40f9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A03.4.3",
+    "context-cnxmod:3c7eaba0-70af-42c9-8bca-d8cfd04833e7",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:3-4-the-indus-valley-civilization"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A03.4.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00107"
+  ]
+}
