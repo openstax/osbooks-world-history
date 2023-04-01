@@ -1,0 +1,25 @@
+{
+  "errata_id": "7918e36c646e48d3e39aee59a070f7f5e6b54926cd5f6ef789d489fae1f2022d",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A02.1.1",
+    "context-cnxmod:8faecac2-ce8d-4503-b157-0c2f79562faa",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:2-1-early-human-evolution-and-migration"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A02.1.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00088"
+  ]
+}
