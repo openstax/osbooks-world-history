@@ -1,0 +1,25 @@
+{
+  "errata_id": "a0127a90205f9ca569ceedc3b3d5a0eeea740079db0631d34a9e4f5c6f639dba",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "assignment-type:reading",
+    "blooms:1",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A13.1.2",
+    "context-cnxmod:64fd62c4-f9f3-49a2-925b-4c00696ef7de",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:13-1-the-post-roman-west-in-the-early-middle-ages"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A13.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00118"
+  ]
+}
