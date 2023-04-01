@@ -1,0 +1,23 @@
+{
+  "errata_id": "6a3d433727f4cb1eb9a30982067116a14c2263562d6329f6aaf14d624fcd5123",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A12.2.3",
+    "context-cnxmod:6e823e44-00d0-4c1b-b199-d81cbfd4276e",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:13-2-the-seljuk-migration-and-the-call-from-the-east"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A12.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00119"
+  ]
+}
