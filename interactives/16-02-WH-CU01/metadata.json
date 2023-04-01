@@ -1,0 +1,26 @@
+{
+  "errata_id": "6dc063756ef524c7173136a50954ce031e7e97ef574f384049e681b73b47a8bb",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A16.2.1",
+    "context-cnxmod:44ee7862-148a-4c77-a819-668f46fede12",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:16-2-famine-climate-change-and-migration"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A16.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00158"
+  ]
+}
