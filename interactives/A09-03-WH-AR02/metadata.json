@@ -1,0 +1,23 @@
+{
+  "errata_id": "c05fa3e3d5a85a4d38cc542d6e862520530c859465f9b50414a346be4e3f4097",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A09.3.3",
+    "context-cnxmod:3520eafd-79aa-4184-ac70-776730e7edf8",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:9-3-the-kingdom-of-kush"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A09.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00096"
+  ]
+}
