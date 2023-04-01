@@ -1,0 +1,26 @@
+{
+  "errata_id": "866e84ca44025099d0914889e1462737ba3bbdf0183b670af2b52ad271633703",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:4",
+    "type:practice",
+    "time:medium",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A07.4.2",
+    "context-cnxmod:7dff889a-79d0-4095-9cb5-04494f2795cd",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:7-4-religion-in-the-roman-empire"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A07.4.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00141"
+  ]
+}
