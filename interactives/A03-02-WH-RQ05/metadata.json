@@ -1,0 +1,25 @@
+{
+  "errata_id": "9a26eb230f8eee5768f5554572343850a6dfe004f53a303ad467f443a5014006",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:3",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A03.2.13",
+    "context-cnxmod:b8afff40-db50-4cf3-94cd-55755677f966",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:3-2-ancient-mesopotamia"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A03.2.13"
+      ]
+    }
+  ],
+  "context": [
+    "m00105"
+  ]
+}
