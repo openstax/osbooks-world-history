@@ -1,0 +1,23 @@
+{
+  "errata_id": "32b899e85c20b1c2e0664d739a16373fae3445e20a13612816b81321042ee707",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A04.1.2",
+    "context-cnxmod:870d7f03-0666-4eba-97f7-02f2735e28e6",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:4-1-from-old-babylon-to-the-medes"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A04.1.2"
+      ]
+    }
+  ],
+  "context": [
+    "m00109"
+  ]
+}
