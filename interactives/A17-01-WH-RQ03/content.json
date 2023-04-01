@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "How did Europeans respond to the Ottomans’ taking control of trade in the eastern Mediterranean and along the Silk Roads?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "The nations of western Europe launched a Crusade to retake control of the trade routes from the Ottomans."
+    },
+    {
+      "text": "Venetian and Genoese traders welcomed Ottoman control because the Ottoman army protected the trade routes and made them safer."
+    },
+    {
+      "text": "Europeans began to seek an all-water, oceanic route to South and East Asia."
+    },
+    {
+      "text": "European merchants objected to paying taxes to the Ottomans and created overland routes to India and East Asia that bypassed Ottoman-controlled lands."
+    }
+  ],
+  "subContentId": "dfd108a2-aa28-4287-8d36-7671d0b8300b"
+}
