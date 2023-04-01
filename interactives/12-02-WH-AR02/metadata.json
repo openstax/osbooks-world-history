@@ -1,0 +1,23 @@
+{
+  "errata_id": "bad25ca2c05d9634538faf3414868ff72badda291e0d8131835f9b56628c46eb",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A12.2.1",
+    "context-cnxmod:b030fcef-db08-443e-b680-c51908cc67c4",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:12-2-east-west-interactions-in-the-early-middle-ages"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A12.2.1"
+      ]
+    }
+  ],
+  "context": [
+    "m00154"
+  ]
+}
