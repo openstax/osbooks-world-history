@@ -1,0 +1,25 @@
+{
+  "errata_id": "6e602a72220fdd28cea1bae381343554ec570ce4d2941ea3c87f2f317cc785b1",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "blooms:2",
+    "assignment-type:reading",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A08.3.3",
+    "context-cnxmod:6bc94c1b-e8eb-4c14-b8ff-940413a64cf3",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:8-3-the-age-of-empires-in-the-americas"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A08.3.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00116"
+  ]
+}
