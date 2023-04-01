@@ -1,0 +1,23 @@
+{
+  "errata_id": "b45ef49a24fbe50b16337c34186d9b6353183f71c07045a8c236a5ef4863ed55",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-worldhist",
+    "lo:stax-worldhist:A06.2.3",
+    "context-cnxmod:861363aa-eb33-4198-aebf-ea58abdf1ec6",
+    "book-slug:world-history-volume-1",
+    "module-slug:world-history-volume-1:6-2-ancient-greece"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist",
+      "lo": [
+        "A06.2.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00133"
+  ]
+}
