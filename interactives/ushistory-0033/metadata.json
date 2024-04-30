@@ -1,0 +1,15 @@
+{
+  "errata_id": "0c61cd0f4eebfe3034bf4a4dd8cb41e9a36a81b663199966ed7801703c3df1fd",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:a2bcc240-ec3a-4ccd-89d4-1b61892701a5",
+    "book-slug:us-history",
+    "module-slug:us-history:3-3-english-settlements-in-america",
+    "book:stax-worldhist"
+  ],
+  "books": [
+    {
+      "name": "stax-worldhist"
+    }
+  ]
+}
