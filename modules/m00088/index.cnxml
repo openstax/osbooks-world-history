@@ -153,27 +153,27 @@
     <title>Review Questions</title>
     <exercise id="exer-00001">
     <problem id="prob-00001">
-    <para id="para-00042"><link class="os-embed" url="#exercise/A02-01-WH-RQ1"/></para>
+    <para id="para-00042"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-RQ1"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00002">
     <problem id="prob-00002">
-    <para id="para-00043"><link class="os-embed" url="#exercise/A02-01-WH-RQ2"/></para>
+    <para id="para-00043"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-RQ2"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00003">
     <problem id="prob-00003">
-    <para id="para-00044"><link class="os-embed" url="#exercise/A02-01-WH-RQ3"/></para>
+    <para id="para-00044"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-RQ3"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00004">
     <problem id="prob-00004">
-    <para id="para-00045"><link class="os-embed" url="#exercise/A02-01-WH-RQ4"/></para>
+    <para id="para-00045"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-RQ4"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00011">
       <problem id="prob-00011">
-      <para id="para-00052"><link class="os-embed" url="#exercise/A02-01-WH-RQ5"/></para>
+      <para id="para-00052"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-RQ5"/></para>
       </problem>
       </exercise>
     </section>
@@ -181,22 +181,22 @@
     <title>Check Your Understanding Questions</title>
     <exercise id="exer-00005">
     <problem id="prob-00005">
-    <para id="para-00046"><link class="os-embed" url="#exercise/A02-01-WH-CU1"/></para>
+    <para id="para-00046"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-CU1"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00006">
     <problem id="prob-00006">
-    <para id="para-00047"><link class="os-embed" url="#exercise/A02-01-WH-CU2"/></para>
+    <para id="para-00047"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-CU2"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00007">
     <problem id="prob-00007">
-    <para id="para-00048"><link class="os-embed" url="#exercise/A02-01-WH-CU3"/></para>
+    <para id="para-00048"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-CU3"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00008">
     <problem id="prob-00008">
-    <para id="para-00049"><link class="os-embed" url="#exercise/A02-01-WH-CU4"/></para>
+    <para id="para-00049"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-CU4"/></para>
     </problem>
     </exercise>
     </section>
@@ -204,12 +204,12 @@
     <title>Application and Reflection Questions</title>
     <exercise id="exer-00009">
     <problem id="prob-00009">
-    <para id="para-00050"><link class="os-embed" url="#exercise/A02-01-WH-AR1"/></para>
+    <para id="para-00050"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-AR1"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00010">
     <problem id="prob-00010">
-    <para id="para-00051"><link class="os-embed" url="#exercise/A02-01-WH-AR2"/></para>
+    <para id="para-00051"><link class="os-embed" url="{INTERACTIVES_ROOT}/A02-01-WH-AR2"/></para>
     </problem>
     </exercise>
     </section>

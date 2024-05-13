@@ -92,17 +92,17 @@
     <title>Review Questions</title>
     <exercise id="exer-00001">
     <problem id="prob-00001">
-    <para id="para-00027"><link class="os-embed" url="#exercise/A10-04-WH-RQ01"/></para>
+    <para id="para-00027"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-RQ01"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00002">
     <problem id="prob-00002">
-    <para id="para-00028"><link class="os-embed" url="#exercise/A10-04-WH-RQ02"/></para>
+    <para id="para-00028"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-RQ02"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00003">
     <problem id="prob-00003">
-    <para id="para-00029"><link class="os-embed" url="#exercise/A10-04-WH-RQ03"/></para>
+    <para id="para-00029"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-RQ03"/></para>
     </problem>
     </exercise>
     </section>
@@ -110,7 +110,7 @@
     <title>Check Your Understanding Questions</title>
     <exercise id="exer-00004">
     <problem id="prob-00004">
-    <para id="para-00030"><link class="os-embed" url="#exercise/A10-04-WH-CU01"/></para>
+    <para id="para-00030"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-CU01"/></para>
     </problem>
     </exercise>
     </section>
@@ -118,17 +118,17 @@
     <title>Application and Reflection Questions</title>
     <exercise id="exer-00005">
     <problem id="prob-00005">
-    <para id="para-00031"><link class="os-embed" url="#exercise/A10-04-WH-AR01"/></para>
+    <para id="para-00031"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-AR01"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00006">
     <problem id="prob-00006">
-    <para id="para-00032"><link class="os-embed" url="#exercise/A10-04-WH-AR02"/></para>
+    <para id="para-00032"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-AR02"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00007">
     <problem id="prob-00007">
-    <para id="para-00033"><link class="os-embed" url="#exercise/A10-04-WH-AR03"/></para>
+    <para id="para-00033"><link class="os-embed" url="{INTERACTIVES_ROOT}/A10-04-WH-AR03"/></para>
     </problem>
     </exercise>
     </section>
