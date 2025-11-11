@@ -1,6 +1,8 @@
 
 {
     "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.env": "python",
         "*.cnxml": "xml"
     },
     "xml.catalogs": [
