@@ -9,7 +9,7 @@ To view these books online and view contributors, please visit:
 - _World History Volume 2, from 1400_ [online](https://openstax.org/details/books/world-history-volume-2)
 
 ## License
-_World History Volume 1, to 1500 and World History Volume 2, from 1400_ are available under the [Creative Commons Attribution License](./LICENSE) license.
+_World History Volume 1, to 1500 and World History Volume 2, from 1400_ are available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
